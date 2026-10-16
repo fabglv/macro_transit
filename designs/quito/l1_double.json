@@ -1,0 +1,7 @@
+{
+  "label": "L1 service doubled",
+  "description": "Twice as many metro trains on Linea 1: a train every 2.5 minutes instead of 5, in both directions. The notebook's first scenario.",
+  "changes": [
+    {"type": "headway", "route": "L1", "minutes": 2.5}
+  ]
+}

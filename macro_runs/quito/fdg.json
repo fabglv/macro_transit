@@ -1,0 +1,31 @@
+{
+ "label": "gfds",
+ "description": "gdfsgdf",
+ "parameters": {
+  "TRIPS_PER_PERSON": 0.27,
+  "ATTRACTION_RATES": {
+   "mixed/commercial": 1.1,
+   "facilities": 0.7,
+   "heritage core": 0.9,
+   "industrial": 0.3,
+   "residential": 0.05
+  },
+  "CAR_SHARE": 0.24,
+  "OCCUPANCY": 1.6,
+  "INTRAZONAL_SHARE": 0.9,
+  "MEAN_TRIP_MIN": 16.8,
+  "PERIOD_SCALE": {
+   "morning peak": 1.0,
+   "midday": 0.48,
+   "evening peak": 1.0,
+   "night": 0.19
+  },
+  "PERIOD_DIRECTION": {
+   "morning peak": 1.0,
+   "midday": 0.5,
+   "evening peak": 0.0,
+   "night": 0.4
+  },
+  "PERIOD": "night"
+ }
+}

@@ -1,0 +1,24 @@
+# Made by the programs: run.py, design.py and view.py write them again
+output/
+__pycache__/
+*.pyc
+
+# The cities' data: the originals (data/<city>/input/, about 1 GB, several files over GitHub's
+# 100 MB) and the downloads kept between runs (cache/) stay out; what the model reads of them -
+# data/<city>/input_min/, cut by tools/trim_inputs.py - is in, with the originals' notes.
+data/**
+!data/**/
+!data/**/*.md
+!data/*/input_min/**
+
+# Not the program's
+other_stuff/
+.vscode/
+
+# What the tests leave: their reports, logs and screenshots, and the runs they make (zzi_, zzr_,
+# zzt_ - deleted after, unless a test was stopped half way)
+tests/interface_shots/
+tests/*_report.txt
+tests/*.log
+macro_runs/*/zz[irt]_*
+designs/*/zz[irt]_*

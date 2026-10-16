@@ -1,0 +1,18 @@
+{
+ "label": "fdsafs",
+ "description": "fdsaf",
+ "parameters": {
+  "TRIPS_PER_PERSON": 0.41,
+  "ATTRACTION_RATES": {
+   "mixed/commercial": 1.0,
+   "facilities": 0.8,
+   "heritage core": 0.7,
+   "industrial": 0.25,
+   "residential": 0.05
+  },
+  "CAR_SHARE": 0.21,
+  "OCCUPANCY": 1.5,
+  "INTRAZONAL_SHARE": 0.4,
+  "MEAN_TRIP_MIN": 20.0
+ }
+}

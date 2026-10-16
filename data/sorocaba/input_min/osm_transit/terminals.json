@@ -1,0 +1,537 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-12T10:13:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 137273378,
+  "center": {
+    "lat": -23.5066883,
+    "lon": -47.4566231
+  },
+  "tags": {
+    "amenity": "bus_station",
+    "building": "transportation",
+    "bus": "yes",
+    "layer": "-1",
+    "name": "Terminal Rodoviário Sorocaba",
+    "public_transport": "station",
+    "short_name": "Rodo Center"
+  }
+},
+{
+  "type": "way",
+  "id": 176723716,
+  "center": {
+    "lat": -23.5045340,
+    "lon": -47.4525689
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "addr:street": "Rua Leopoldo Machado",
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "layer": "1",
+    "name": "Terminal São Paulo",
+    "operator": "Urbes",
+    "public_transport": "station",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 671827318,
+  "center": {
+    "lat": -23.4958528,
+    "lon": -47.4595507
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "layer": "-2",
+    "name": "Terminal Urbano Santo Antônio",
+    "operator": "Urbes",
+    "public_transport": "station",
+    "start_date": "1992-07-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 823622576,
+  "center": {
+    "lat": -23.4364861,
+    "lon": -47.4731697
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal Parque Vitória Régia - Luiz Carlos Rosa",
+    "note": "https://brtsorocaba.com.br/plataformas-do-terminal-vitoria-regia-ganham-cobertura-de-placas-fotovoltaicas/ e https://brtsorocaba.com.br/novo-terminal-do-brt-em-sorocaba-usara-agua-da-chuva-para-regar-plantas-e-limpeza/",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "source:name": "LEI Nº 12.391, DE 21 DE OUTUBRO DE 2021.",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174689,
+  "center": {
+    "lat": -23.4473180,
+    "lon": -47.4795197
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "São Camilo",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174713,
+  "center": {
+    "lat": -23.4592345,
+    "lon": -47.4800640
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "alt_name": "BRT - Jardim Atílio Silvano B/C",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Sentido Centro",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Jd Atílio Silvano",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174714,
+  "center": {
+    "lat": -23.4587656,
+    "lon": -47.4801456
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "alt_name": "BRT - Jardim Atílio Silvano B/C",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Sentido Bairro",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Jd Atílio Silvano",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174720,
+  "center": {
+    "lat": -23.4660194,
+    "lon": -47.4787343
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Los Angeles",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174732,
+  "center": {
+    "lat": -23.4697417,
+    "lon": -47.4776021
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "alt_name": "BRT - Jardim Paraná B/C",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Sentido Centro",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Jd Paraná",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174733,
+  "center": {
+    "lat": -23.4691683,
+    "lon": -47.4777780
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "alt_name": "BRT - Jardim Paraná B/C",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Sentido Bairro",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Estação Jardim Paraná – Luiz Henrique Ortiz Gonzales - Gar­denal",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "source:name": "LEI Nº 12.395, DE 21 DE OUTUBRO DE 2021.",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174740,
+  "center": {
+    "lat": -23.4733482,
+    "lon": -47.4764443
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Sentido Centro",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Estação Vila Carol - Arany Marchetti",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "source:name": "P.M. de Sorocaba, Lewi nº 12.661, de 03 de outubro de 2.022.",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174741,
+  "center": {
+    "lat": -23.4727844,
+    "lon": -47.4766541
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Sentido Bairro",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Vila Carol",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174750,
+  "center": {
+    "lat": -23.4770553,
+    "lon": -47.4751109
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Sentido Centro",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Estação Escola Lauro Sanches - Marcos Roberto Bonini",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174751,
+  "center": {
+    "lat": -23.4764903,
+    "lon": -47.4753168
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Sentido Bairro",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "E.E. Lauro Sanches",
+    "name:en": "Estação Escola Lauro Sanches - Marcos Roberto Bonini",
+    "name:pt": "Estação Escola Lauro Sanches - Marcos Roberto Bonini",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "source:name": "LEI Nº 12.390, DE 21 DE OUTUBRO DE 2021.",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174759,
+  "center": {
+    "lat": -23.4796573,
+    "lon": -47.4741614
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Sentido Centro",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "C.E. Dr. Pitico",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 844174760,
+  "center": {
+    "lat": -23.4791820,
+    "lon": -47.4743413
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "alt_name": "BRT - Jardim Paraná B/C",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "description": "Sentido Bairro",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "C.E. Dr. Pitico",
+    "network": "Corredor BRT Itavuvu",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 866504263,
+  "center": {
+    "lat": -23.5440806,
+    "lon": -47.4463530
+  },
+  "tags": {
+    "amenity": "bus_station",
+    "building": "roof",
+    "bus": "yes",
+    "name": "Terminal Urbano João Souto",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 936149488,
+  "center": {
+    "lat": -23.4827549,
+    "lon": -47.4750383
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Vila Guilherme",
+    "network": "Corredor BRT Ipanema",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 936149501,
+  "center": {
+    "lat": -23.4751779,
+    "lon": -47.4868321
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Jardim Planalto",
+    "network": "Corredor BRT Ipanema",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 936149507,
+  "center": {
+    "lat": -23.4724677,
+    "lon": -47.4893207
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Nova Sorocaba",
+    "network": "Corredor BRT Ipanema",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 936149524,
+  "center": {
+    "lat": -23.4568250,
+    "lon": -47.5038014
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "air_conditioning": "no",
+    "amenity": "bus_station",
+    "building": "yes",
+    "bus": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Jardim Betânia",
+    "network": "Corredor BRT Ipanema",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "surface": "metal",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "relation",
+  "id": 11579685,
+  "center": {
+    "lat": -23.4365966,
+    "lon": -47.4731722
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "check_date": "2023-06-21",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Terminal Vitória Régia",
+    "note": "https://brtsorocaba.com.br/plataformas-do-terminal-vitoria-regia-ganham-cobertura-de-placas-fotovoltaicas/ e https://brtsorocaba.com.br/novo-terminal-do-brt-em-sorocaba-usara-agua-da-chuva-para-regar-plantas-e-limpeza/",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "type": "multipolygon",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "relation",
+  "id": 12639004,
+  "center": {
+    "lat": -23.4523698,
+    "lon": -47.5050225
+  },
+  "tags": {
+    "addr:city": "Sorocaba",
+    "addr:street": "Rua Comendador Genésio Rodrigues",
+    "alt_name": "TSB",
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "Terminal São Bento",
+    "note": "https://mobilidadesampa.com.br/2021/03/terminal-sao-bento-obras-brt-sorocaba-reta-final/",
+    "official_name": "Terminal São Bento - Marcos Humberto de Alcantara",
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "public_transport": "station",
+    "source": "Lei nº 12.296/2021",
+    "type": "multipolygon",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

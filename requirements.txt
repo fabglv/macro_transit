@@ -1,0 +1,15 @@
+# Tested on Python 3.12 with the versions installed for the original notebooks.
+aequilibrae==1.6.2
+numpy
+pandas
+geopandas
+shapely>=2
+folium
+scipy
+scikit-learn       # contiguity-constrained clustering, to split large zones
+openpyxl           # Quito's population projections (.xlsx)
+pyarrow            # parquet caches
+requests           # Overpass queries
+networkx           # Sorocaba: walking the carriageways to place the traffic counts
+rtree              # spatial index AequilibraE uses outside QGIS
+# playwright       # tests/interface.py only: drives the installed Chrome (pip install playwright)

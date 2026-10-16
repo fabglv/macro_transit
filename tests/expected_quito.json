@@ -1,0 +1,242 @@
+{
+ "baseline": {
+  "feed": {
+   "agency": 1,
+   "calendar": 3,
+   "frequencies": 24,
+   "routes": 4,
+   "services": [
+    "SATURDAY",
+    "SUNDAY",
+    "WEEKDAY"
+   ],
+   "shapes": 2151,
+   "stations": [
+    "EST_LABRADOR",
+    "EST_MARIN",
+    "EST_RECREO"
+   ],
+   "stop_times": 249,
+   "stops": 45,
+   "trips": 24
+  },
+  "headline": {
+   "departures in the busiest hour, bus": "110",
+   "departures in the busiest hour, metro": "24",
+   "lines": "4",
+   "stops": "42",
+   "vehicle-km a weekday": "24,684",
+   "vehicles needed, bus": "69",
+   "vehicles needed, metro": "16"
+  },
+  "operations": {
+   "Circular": {
+    "round_trip_min": 43.5,
+    "vehicle_hours_weekday": 246.7,
+    "vehicle_km_weekday": 2703.0,
+    "vehicles_weekday": 15.0
+   },
+   "Ecovia": {
+    "round_trip_min": 69.9,
+    "vehicle_hours_weekday": 297.0,
+    "vehicle_km_weekday": 4666.5,
+    "vehicles_weekday": 18.0
+   },
+   "L1": {
+    "round_trip_min": 75.1,
+    "vehicle_hours_weekday": 255.2,
+    "vehicle_km_weekday": 6437.9,
+    "vehicles_weekday": 16.0
+   },
+   "Trolebus": {
+    "round_trip_min": 106.5,
+    "vehicle_hours_weekday": 603.2,
+    "vehicle_km_weekday": 10876.6,
+    "vehicles_weekday": 36.0
+   }
+  },
+  "operations_simulated": {
+   "day": "weekday",
+   "vehicle_hours": 1402.1,
+   "vehicle_km": 24684.0,
+   "vehicles": {
+    "bus": 69,
+    "metro": 16
+   }
+  },
+  "simulation": {
+   "boarded": 1647.4125652793164,
+   "boardings": 2567.7322361133088,
+   "journey_min": 34.34322124920721,
+   "passenger_hours": 942.9575703018597,
+   "riding_min": 17.966873273069165,
+   "served": 1795.537268555151,
+   "transfers": 0.5047550432276657,
+   "waiting_min": 3.0521613832853016,
+   "walk_only": 148.1247032758347,
+   "walking_min": 13.324186592852744
+  }
+ },
+ "l1_double": {
+  "feed": {
+   "agency": 1,
+   "calendar": 3,
+   "frequencies": 24,
+   "routes": 4,
+   "services": [
+    "SATURDAY",
+    "SUNDAY",
+    "WEEKDAY"
+   ],
+   "shapes": 2151,
+   "stations": [
+    "EST_LABRADOR",
+    "EST_MARIN",
+    "EST_RECREO"
+   ],
+   "stop_times": 249,
+   "stops": 45,
+   "trips": 24
+  },
+  "headline": {
+   "departures in the busiest hour, bus": "110",
+   "departures in the busiest hour, metro": "48",
+   "lines": "4",
+   "stops": "42",
+   "vehicle-km a weekday": "31,122",
+   "vehicles needed, bus": "69",
+   "vehicles needed, metro": "31"
+  },
+  "operations": {
+   "Circular": {
+    "round_trip_min": 43.5,
+    "vehicle_hours_weekday": 246.7,
+    "vehicle_km_weekday": 2703.0,
+    "vehicles_weekday": 15.0
+   },
+   "Ecovia": {
+    "round_trip_min": 69.9,
+    "vehicle_hours_weekday": 297.0,
+    "vehicle_km_weekday": 4666.5,
+    "vehicles_weekday": 18.0
+   },
+   "L1": {
+    "round_trip_min": 75.1,
+    "vehicle_hours_weekday": 510.5,
+    "vehicle_km_weekday": 12875.8,
+    "vehicles_weekday": 31.0
+   },
+   "Trolebus": {
+    "round_trip_min": 106.5,
+    "vehicle_hours_weekday": 603.2,
+    "vehicle_km_weekday": 10876.6,
+    "vehicles_weekday": 36.0
+   }
+  },
+  "operations_simulated": {
+   "day": "weekday",
+   "vehicle_hours": 1657.4,
+   "vehicle_km": 31121.9,
+   "vehicles": {
+    "bus": 69,
+    "metro": 31
+   }
+  },
+  "simulation": {
+   "boarded": 1638.6295299889223,
+   "boardings": 2572.4798227567653,
+   "journey_min": 33.41628056055061,
+   "passenger_hours": 912.6150684818836,
+   "riding_min": 17.841134363421705,
+   "served": 1795.537268555151,
+   "transfers": 0.508184847167898,
+   "waiting_min": 2.2154498044328546,
+   "walk_only": 156.90773856622877,
+   "walking_min": 13.359696392696046
+  }
+ },
+ "new_line_l2": {
+  "feed": {
+   "agency": 1,
+   "calendar": 3,
+   "frequencies": 30,
+   "routes": 5,
+   "services": [
+    "SATURDAY",
+    "SUNDAY",
+    "WEEKDAY"
+   ],
+   "shapes": 2171,
+   "stations": [
+    "EST_LABRADOR",
+    "EST_MARIN",
+    "EST_RECREO"
+   ],
+   "stop_times": 309,
+   "stops": 55,
+   "trips": 30
+  },
+  "headline": {
+   "departures in the busiest hour, bus": "110",
+   "departures in the busiest hour, metro": "48",
+   "lines": "5",
+   "stops": "52",
+   "vehicle-km a weekday": "28,688",
+   "vehicles needed, bus": "69",
+   "vehicles needed, metro": "28"
+  },
+  "operations": {
+   "Circular": {
+    "round_trip_min": 43.5,
+    "vehicle_hours_weekday": 246.7,
+    "vehicle_km_weekday": 2703.0,
+    "vehicles_weekday": 15.0
+   },
+   "Ecovia": {
+    "round_trip_min": 69.9,
+    "vehicle_hours_weekday": 297.0,
+    "vehicle_km_weekday": 4666.5,
+    "vehicles_weekday": 18.0
+   },
+   "L1": {
+    "round_trip_min": 75.1,
+    "vehicle_hours_weekday": 255.2,
+    "vehicle_km_weekday": 6437.9,
+    "vehicles_weekday": 16.0
+   },
+   "L2": {
+    "round_trip_min": 57.2,
+    "vehicle_hours_weekday": 194.6,
+    "vehicle_km_weekday": 4003.7,
+    "vehicles_weekday": 12.0
+   },
+   "Trolebus": {
+    "round_trip_min": 106.5,
+    "vehicle_hours_weekday": 603.2,
+    "vehicle_km_weekday": 10876.6,
+    "vehicles_weekday": 36.0
+   }
+  },
+  "operations_simulated": {
+   "day": "weekday",
+   "vehicle_hours": 1596.7,
+   "vehicle_km": 28687.7,
+   "vehicles": {
+    "bus": 69,
+    "metro": 28
+   }
+  },
+  "simulation": {
+   "boarded": 2449.7547080234217,
+   "boardings": 4062.2725114733344,
+   "journey_min": 35.152188883482125,
+   "passenger_hours": 1435.2373369106488,
+   "riding_min": 18.178291420486108,
+   "served": 2634.9105871182146,
+   "transfers": 0.6126937984496124,
+   "waiting_min": 3.458430232558138,
+   "walk_only": 185.1558790947929,
+   "walking_min": 13.515467230437878
+  }
+ }
+}

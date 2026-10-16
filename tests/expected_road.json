@@ -1,0 +1,689 @@
+{
+ "quito": {
+  "baseline": {
+   "streets": {
+    "Autopista General Rumiñahui": 70196.242,
+    "Avenida 10 de Agosto": 25360.16,
+    "Avenida 6 de Diciembre": 33595.987,
+    "Avenida Galo Plaza Lasso": 26169.641,
+    "Avenida General Eloy Alfaro": 28804.549,
+    "Avenida Gonzalo Perez Bustamante": 26616.993,
+    "Avenida Interoceánica": 14183.924,
+    "Avenida Manuel Córdova Galarza": 35179.643,
+    "Avenida Mariscal Sucre": 186952.012,
+    "Avenida Panamericana Norte": 40494.36,
+    "Avenida Pedro Vicente Maldonado": 29462.984,
+    "Avenida Río Amazonas": 19864.258,
+    "Avenida Simón Bolívar": 461203.208,
+    "Avenida Teniente Hugo Ortiz": 18824.724,
+    "Avenida Velasco Ibarra": 18733.633,
+    "Avenida de la Prensa": 14689.273,
+    "Avenida de las Palmeras": 16815.067,
+    "Ruta Viva": 89841.098,
+    "Vía Calacalí - La Independencia": 18320.571,
+    "Vía Interoceánica": 16975.355
+   },
+   "totals": {
+    "trips": 125328.53661538463,
+    "veh_hours": 47066.77617483895
+   },
+   "trip_groups": {
+    "inbound": 0.0,
+    "outbound": 0.0,
+    "through": 0.0,
+    "within": 125328.53661538463
+   }
+  },
+  "scenarios": {
+   "capacity": {
+    "edits": [
+     {
+      "flow": [
+       4342,
+       4862
+      ],
+      "voc": [
+       3.21,
+       1.77
+      ]
+     }
+    ],
+    "less": {
+     "Avenida 2 de Agosto": [
+      0.75,
+      0.67,
+      -0.08,
+      -10
+     ],
+     "Avenida Pichincha": [
+      1.7,
+      1.65,
+      -0.06,
+      1
+     ],
+     "Camilo Ponce Enrìquez": [
+      0.43,
+      0.32,
+      -0.1,
+      -24
+     ],
+     "El Sena": [
+      1.35,
+      1.3,
+      -0.06,
+      2
+     ],
+     "Vìa Intervalles": [
+      0.6,
+      0.51,
+      -0.09,
+      -13
+     ]
+    },
+    "more": {
+     "Autopista General Rumiñahui": [
+      0.98,
+      1.04,
+      0.06,
+      8
+     ],
+     "Avenida Gribaldo Miño": [
+      1.39,
+      1.45,
+      0.06,
+      4
+     ],
+     "Fidel Lopez Atreita": [
+      1.55,
+      1.61,
+      0.06,
+      -1
+     ],
+     "Ladrón de Guevara": [
+      0.43,
+      0.52,
+      0.09,
+      20
+     ],
+     "Montúfar": [
+      1.99,
+      2.04,
+      0.05,
+      2
+     ]
+    },
+    "totals": {
+     "trips": 125328.53661538463,
+     "veh_hours": 46326.5595854176
+    },
+    "unrouted": null
+   },
+   "closure": {
+    "edits": [
+     {
+      "flow": [
+       10494,
+       0
+      ],
+      "voc": [
+       1.87,
+       0.0
+      ]
+     }
+    ],
+    "less": {
+     "Avenida Gonzalo Perez Bustamante": [
+      26617,
+      -15003,
+      -56
+     ],
+     "Avenida Morán Valverde": [
+      3843,
+      -1816,
+      -47
+     ],
+     "Avenida Simón Bolívar": [
+      461203,
+      -184036,
+      -40
+     ],
+     "Ruta Viva": [
+      89841,
+      -21349,
+      -24
+     ],
+     "Via El Quinche Pifo": [
+      9862,
+      -3216,
+      -33
+     ]
+    },
+    "more": {
+     "Avenida Mariscal Sucre": [
+      186952,
+      20980,
+      11
+     ],
+     "Avenida Panamericana Norte": [
+      40494,
+      8805,
+      22
+     ],
+     "Corredor Alpachaca": [
+      5920,
+      7952,
+      134
+     ],
+     "Via Collas Tababela": [
+      11216,
+      14169,
+      126
+     ],
+     "Vía Interoceánica": [
+      16975,
+      7337,
+      43
+     ]
+    },
+    "totals": {
+     "trips": 125328.53661538463,
+     "veh_hours": 57748.4668582614
+    },
+    "unrouted": {
+     "trips": 0.0,
+     "zones": []
+    }
+   },
+   "demand": {
+    "edits": [
+     {
+      "flow": null,
+      "voc": null
+     }
+    ],
+    "less": {
+     "Avenida Ana Paredes de Alfaro": [
+      1138,
+      -323,
+      -28
+     ],
+     "Avenida Atahualpa": [
+      1382,
+      -150,
+      -11
+     ],
+     "Avenida Huancavilcas": [
+      3078,
+      -102,
+      -3
+     ],
+     "Camilo Ponce Enrìquez": [
+      3511,
+      -275,
+      -8
+     ],
+     "Ruta Viva": [
+      89841,
+      -688,
+      -1
+     ]
+    },
+    "more": {
+     "Autopista General Rumiñahui": [
+      70196,
+      3489,
+      5
+     ],
+     "Avenida Mariscal Sucre": [
+      186952,
+      745,
+      0
+     ],
+     "Avenida Pichincha": [
+      10739,
+      1073,
+      10
+     ],
+     "Avenida Simón Bolívar": [
+      461203,
+      7225,
+      2
+     ],
+     "Avenida Velasco Ibarra": [
+      18734,
+      1252,
+      7
+     ]
+    },
+    "totals": {
+     "trips": 127328.53661538463,
+     "veh_hours": 48531.36228096819
+    },
+    "unrouted": null
+   },
+   "newroad": {
+    "edits": [
+     {
+      "flow": [
+       0,
+       5314
+      ],
+      "voc": [
+       0.0,
+       1.78
+      ]
+     }
+    ],
+    "less": {
+     "Autopista General Rumiñahui": [
+      70196,
+      -2254,
+      -3
+     ],
+     "Avenida Oswaldo Guayasamín": [
+      14130,
+      -1841,
+      -13
+     ],
+     "Avenida Simón Bolívar": [
+      461203,
+      -11364,
+      -2
+     ],
+     "Avenida de los Granados": [
+      5980,
+      -1963,
+      -33
+     ],
+     "Vía Interoceánica": [
+      16975,
+      -4758,
+      -28
+     ]
+    },
+    "more": {
+     "Avenida Gonzalo Perez Bustamante": [
+      26617,
+      779,
+      3
+     ],
+     "Avenida de la República": [
+      5922,
+      824,
+      14
+     ],
+     "Avenida de los Shyris": [
+      9232,
+      1130,
+      12
+     ],
+     "Ruta Viva": [
+      89841,
+      3348,
+      4
+     ],
+     "Vía Pifo El Quinche": [
+      12040,
+      543,
+      5
+     ]
+    },
+    "totals": {
+     "trips": 125328.53661538463,
+     "veh_hours": 45711.24419699041
+    },
+    "unrouted": null
+   }
+  }
+ },
+ "sorocaba": {
+  "baseline": {
+   "streets": {
+    "Avenida Comendador Pereira Inácio": 5336.328,
+    "Avenida Dom Aguirre": 19438.923,
+    "Avenida Doutor Afonso Vergueiro": 8562.939,
+    "Avenida Doutor Américo Figueiredo": 5412.657,
+    "Avenida Doutor Armando Pannunzio": 8415.541,
+    "Avenida General Carneiro": 9108.202,
+    "Avenida General Osório": 5568.68,
+    "Avenida Independência": 9431.395,
+    "Avenida Ipanema": 33609.099,
+    "Avenida Itavuvu": 25181.157,
+    "Avenida Juvenal de Campos": 6543.866,
+    "Avenida Paraná": 5223.856,
+    "Avenida São Paulo": 8144.979,
+    "Avenida Victor Andrew": 5437.925,
+    "Rodovia Doutor Celso Charuri": 15477.29,
+    "Rodovia Emerenciano Prestes de Barros": 13448.944,
+    "Rodovia João Leme dos Santos": 17183.909,
+    "Rodovia Raposo Tavares": 58649.546,
+    "Rodovia Raposo Tavares (Marginal)": 8222.934,
+    "Rodovia Senador José Ermírio de Moraes": 47661.767
+   },
+   "totals": {
+    "trips": 51455.902949910815,
+    "veh_hours": 9063.74332992608
+   },
+   "trip_groups": {
+    "inbound": 12096.971521339374,
+    "outbound": 5214.489602826102,
+    "through": 2141.0,
+    "within": 32003.441825745333
+   }
+  },
+  "scenarios": {
+   "capacity": {
+    "edits": [
+     {
+      "flow": [
+       1560,
+       1737
+      ],
+      "voc": [
+       1.57,
+       1.16
+      ]
+     }
+    ],
+    "less": {
+     "Avenida Adolpho Massaglia": [
+      0.44,
+      0.42,
+      -0.01,
+      -1
+     ],
+     "Avenida Angélica": [
+      0.96,
+      0.95,
+      -0.01,
+      -2
+     ],
+     "Avenida Brasil": [
+      0.92,
+      0.66,
+      -0.27,
+      11
+     ],
+     "Avenida Professora Izoraida Marques Peres": [
+      0.82,
+      0.8,
+      -0.01,
+      -1
+     ],
+     "Rua Laura Maiello Kook": [
+      0.17,
+      0.15,
+      -0.02,
+      -17
+     ]
+    },
+    "more": {
+     "Rua Castanho Taques": [
+      1.03,
+      1.06,
+      0.03,
+      2
+     ],
+     "Rua Gonçalves Júnior": [
+      0.8,
+      0.89,
+      0.09,
+      4
+     ],
+     "Rua Humberto de Campos": [
+      0.97,
+      1.01,
+      0.03,
+      4
+     ],
+     "Rua Maciel Baião": [
+      0.82,
+      0.84,
+      0.01,
+      3
+     ],
+     "Viaduto dos Ferroviários": [
+      0.84,
+      0.85,
+      0.01,
+      -1
+     ]
+    },
+    "totals": {
+     "trips": 51455.90294991081,
+     "veh_hours": 9055.863095183182
+    },
+    "unrouted": null
+   },
+   "closure": {
+    "edits": [
+     {
+      "flow": [
+       3466,
+       0
+      ],
+      "voc": [
+       0.89,
+       0.0
+      ]
+     }
+    ],
+    "less": {
+     "Avenida Ipanema": [
+      33609,
+      -8481,
+      -25
+     ],
+     "Avenida José Joaquim de Lacerda": [
+      2538,
+      -238,
+      -9
+     ],
+     "Estrada Dinorah Rosa": [
+      1839,
+      -286,
+      -16
+     ],
+     "Rodovia Emerenciano Prestes de Barros": [
+      13449,
+      -350,
+      -3
+     ],
+     "Rua Comendador Oetterer": [
+      3502,
+      -512,
+      -15
+     ]
+    },
+    "more": {
+     "Avenida Edward Fru-Fru Marciano da Silva": [
+      2832,
+      729,
+      26
+     ],
+     "Avenida General Osório": [
+      5569,
+      495,
+      9
+     ],
+     "Avenida Itavuvu": [
+      25178,
+      1674,
+      7
+     ],
+     "Avenida Santos Dumont": [
+      483,
+      799,
+      165
+     ],
+     "Rua Joaquim Gregório de Oliveira": [
+      585,
+      421,
+      72
+     ]
+    },
+    "totals": {
+     "trips": 51455.90294991081,
+     "veh_hours": 9168.253225739662
+    },
+    "unrouted": {
+     "trips": 0.0,
+     "zones": []
+    }
+   },
+   "demand": {
+    "edits": [
+     {
+      "flow": null,
+      "voc": null
+     }
+    ],
+    "less": {
+     "Avenida Coronel Nogueira Padilha": [
+      2356,
+      -48,
+      -2
+     ],
+     "Avenida São Paulo": [
+      8145,
+      -188,
+      -2
+     ],
+     "Rodovia João Leme dos Santos": [
+      17184,
+      -82,
+      0
+     ],
+     "Rua Comendador Oetterer": [
+      3502,
+      -86,
+      -2
+     ],
+     "Rua da Penha": [
+      240,
+      -138,
+      -57
+     ]
+    },
+    "more": {
+     "Avenida Doutor Afonso Vergueiro": [
+      8563,
+      468,
+      5
+     ],
+     "Avenida General Carneiro": [
+      9103,
+      3841,
+      42
+     ],
+     "Avenida Santa Cruz": [
+      3071,
+      1276,
+      42
+     ],
+     "Rua José Totora": [
+      624,
+      842,
+      135
+     ],
+     "Rua Sete de Setembro": [
+      463,
+      787,
+      170
+     ]
+    },
+    "totals": {
+     "trips": 53455.90294991081,
+     "veh_hours": 9404.751592384071
+    },
+    "unrouted": null
+   },
+   "newroad": {
+    "edits": [
+     {
+      "flow": [
+       0,
+       3037
+      ],
+      "voc": [
+       0.0,
+       0.67
+      ]
+     }
+    ],
+    "less": {
+     "Avenida Adhemar de Barros": [
+      1244,
+      -433,
+      -35
+     ],
+     "Avenida General Osório": [
+      5569,
+      -673,
+      -12
+     ],
+     "Avenida Ipanema": [
+      33609,
+      -3621,
+      -11
+     ],
+     "Rua Comendador Hermelino Matarazzo": [
+      2545,
+      -734,
+      -29
+     ],
+     "Rua Comendador Oetterer": [
+      3502,
+      -846,
+      -24
+     ]
+    },
+    "more": {
+     "Avenida Doutor Afonso Vergueiro": [
+      8563,
+      166,
+      2
+     ],
+     "Avenida Doutor Eugênio Salerno": [
+      1665,
+      859,
+      52
+     ],
+     "Avenida General Carneiro": [
+      9103,
+      640,
+      7
+     ],
+     "Avenida Moreira César": [
+      1520,
+      485,
+      32
+     ],
+     "Avenida Presidente Juscelino Kubitschek de Oliveira": [
+      1919,
+      1051,
+      55
+     ]
+    },
+    "totals": {
+     "trips": 51455.90294991081,
+     "veh_hours": 8993.001735657102
+    },
+    "unrouted": null
+   }
+  },
+  "transit": {
+   "boarded": 4539.073600454674,
+   "boardings": 7603.613351695195,
+   "journey_min": 54.83670577351699,
+   "passenger_hours": 4148.46405854119,
+   "riding_min": 28.294832555154887,
+   "served": 5200.2754278969105,
+   "transfers": 0.6139470934124411,
+   "trips": 30000.0,
+   "waiting_min": 11.932403616542476,
+   "walk_only": 661.2018274422362,
+   "walking_min": 14.609469601819622
+  }
+ }
+}

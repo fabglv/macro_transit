@@ -1,0 +1,6995 @@
+{
+ "source": "OpenStreetMap contributors (ODbL)",
+ "lines": {
+  "OSM_2": {
+   "route_id": "OSM_2",
+   "short": "2",
+   "long": "02 - Brasilândia / Jardim Juliana",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 316",
+     -23.492721,
+     -47.458475,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 772",
+     -23.489757,
+     -47.461221,
+     ""
+    ],
+    [
+     "Rua São Vicente",
+     -23.48771,
+     -47.460148,
+     ""
+    ],
+    [
+     "Rua Gonçalves Crespo",
+     -23.486071,
+     -47.458584,
+     ""
+    ],
+    [
+     "Rua Gonçalves Crespo",
+     -23.484653,
+     -47.458782,
+     ""
+    ],
+    [
+     "Rua Gonçalves Crespo",
+     -23.482782,
+     -47.459066,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.481298,
+     -47.458932,
+     ""
+    ],
+    [
+     "Rua Joana Miranda Correa",
+     -23.481075,
+     -47.4598,
+     ""
+    ],
+    [
+     "Rua Alcidália dos Santos",
+     -23.480525,
+     -47.460888,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.479703,
+     -47.461546,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.478095,
+     -47.462364,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.477215,
+     -47.460825,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.476262,
+     -47.458963,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.475342,
+     -47.458092,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.473908,
+     -47.456805,
+     ""
+    ],
+    [
+     "Rua José João Mira Domingues",
+     -23.473071,
+     -47.457393,
+     ""
+    ],
+    [
+     "Rua Galileu Pasquinelli,811",
+     -23.474846,
+     -47.459381,
+     ""
+    ],
+    [
+     "Rua Pedro Del Santoro",
+     -23.475303,
+     -47.460658,
+     ""
+    ],
+    [
+     "Rua Pedro Del Santoro",
+     -23.473487,
+     -47.461602,
+     ""
+    ],
+    [
+     "Rua Jorge dos Reis e Cunha",
+     -23.47173,
+     -47.460146,
+     ""
+    ],
+    [
+     "Rua Pedro Del Santoro",
+     -23.469997,
+     -47.463673,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.467333,
+     -47.462407,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.465106,
+     -47.461603,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.46378,
+     -47.461155,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14277105,
+     14277142
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Rua Pedro Lombardi",
+     -23.463792,
+     -47.46111,
+     ""
+    ],
+    [
+     "Rua Faustino Rodrigues Martins",
+     -23.463013,
+     -47.461587,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.465137,
+     -47.461744,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.467369,
+     -47.462543,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.468263,
+     -47.462974,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.470023,
+     -47.464128,
+     ""
+    ],
+    [
+     "Rua Firmino Minelli",
+     -23.471645,
+     -47.463602,
+     ""
+    ],
+    [
+     "Rua João Cavalini",
+     -23.472301,
+     -47.462436,
+     ""
+    ],
+    [
+     "Rua João Cavalini",
+     -23.471753,
+     -47.461126,
+     ""
+    ],
+    [
+     "Rua Jorge dos Reis e Cunha",
+     -23.471865,
+     -47.460184,
+     ""
+    ],
+    [
+     "Rua Firmino Minelli",
+     -23.474453,
+     -47.461991,
+     ""
+    ],
+    [
+     "Rua Firmino Minelli",
+     -23.475492,
+     -47.46145,
+     ""
+    ],
+    [
+     "Rua Galileu Pasquinelli",
+     -23.476274,
+     -47.462263,
+     ""
+    ],
+    [
+     "Rua Francisco Catalano",
+     -23.477923,
+     -47.463295,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.479821,
+     -47.461629,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.481756,
+     -47.460645,
+     ""
+    ],
+    [
+     "Rua Gonçalves Crespo",
+     -23.482132,
+     -47.45926,
+     ""
+    ],
+    [
+     "Rua Aguiar de Barros",
+     -23.484031,
+     -47.460079,
+     ""
+    ],
+    [
+     "Rua Aguiar de Barros",
+     -23.485327,
+     -47.459895,
+     ""
+    ],
+    [
+     "Rua Aguiar de Barros",
+     -23.486339,
+     -47.459469,
+     ""
+    ],
+    [
+     "Rua São Vicente",
+     -23.488331,
+     -47.460552,
+     ""
+    ],
+    [
+     "Rua Princesa Isabel",
+     -23.488816,
+     -47.462969,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.4904,
+     -47.461893,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.49217,
+     -47.460242,
+     ""
+    ],
+    [
+     "Stop 25",
+     -23.498206,
+     -47.458986,
+     ""
+    ],
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_5": {
+   "route_id": "OSM_5",
+   "short": "5",
+   "long": "05 - Ibiti Royal / Vila Fiori",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.480656,
+     -47.468321,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.479698,
+     -47.466519,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.47888,
+     -47.464636,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.478065,
+     -47.462789,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.477215,
+     -47.460825,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.476262,
+     -47.458963,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.475342,
+     -47.458092,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.473908,
+     -47.456805,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.463933,
+     -47.452111,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.458839,
+     -47.451759,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.455156,
+     -47.448235,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.454524,
+     -47.44626,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.453933,
+     -47.443347,
+     ""
+    ],
+    [
+     "Avenida Fernando Stecca",
+     -23.455288,
+     -47.44042,
+     ""
+    ],
+    [
+     "Avenida Fernando Stecca",
+     -23.449707,
+     -47.441309,
+     ""
+    ],
+    [
+     "Avenida Fernando Stecca",
+     -23.446256,
+     -47.443497,
+     ""
+    ],
+    [
+     "Avenida Padre Lívio Emílio Calliari",
+     -23.444606,
+     -47.453508,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14059254,
+     14161117
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Avenida Padre Lívio Emílio Calliari",
+     -23.444635,
+     -47.453438,
+     ""
+    ],
+    [
+     "Avenida Fernando Stecca",
+     -23.445377,
+     -47.446629,
+     ""
+    ],
+    [
+     "Avenida Fernando Stecca",
+     -23.449824,
+     -47.441385,
+     ""
+    ],
+    [
+     "Avenida Victor Andrew",
+     -23.452117,
+     -47.441596,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.454348,
+     -47.446621,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.455012,
+     -47.449968,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.45865,
+     -47.452036,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.453706,
+     -47.443503,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.464187,
+     -47.452432,
+     ""
+    ],
+    [
+     "Avenida Comendador Camilo Júlio",
+     -23.465425,
+     -47.452542,
+     ""
+    ],
+    [
+     "Stop 11",
+     -23.471967,
+     -47.454937,
+     ""
+    ],
+    [
+     "Rua Galileu Pasquinelli",
+     -23.472802,
+     -47.457515,
+     ""
+    ],
+    [
+     "Rua Galileu Pasquinelli,811",
+     -23.474846,
+     -47.459381,
+     ""
+    ],
+    [
+     "Rua Galileu Pasquinelli",
+     -23.475649,
+     -47.460803,
+     ""
+    ],
+    [
+     "Rua Galileu Pasquinelli",
+     -23.476274,
+     -47.462263,
+     ""
+    ],
+    [
+     "Rua Galileu Pasquinelli",
+     -23.477278,
+     -47.464616,
+     ""
+    ],
+    [
+     "Rua Abbud Bachir Abdalla",
+     -23.478373,
+     -47.467143,
+     ""
+    ],
+    [
+     "Rua Francisco de Oliveira Abreu",
+     -23.479916,
+     -47.469567,
+     ""
+    ],
+    [
+     "Rua Olegário Ribeiro",
+     -23.481504,
+     -47.469281,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.482726,
+     -47.469265,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.485734,
+     -47.467146,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.48642,
+     -47.465921,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.487411,
+     -47.464572,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.4904,
+     -47.461893,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.49217,
+     -47.460242,
+     ""
+    ],
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_14": {
+   "route_id": "OSM_14",
+   "short": "14",
+   "long": "14 - Santa Rosália",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto H - TSA",
+     -23.495371,
+     -47.459584,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Santa Rosália",
+     -23.493202,
+     -47.456031,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.491883,
+     -47.454728,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.490481,
+     -47.453387,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.49174,
+     -47.451118,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.490885,
+     -47.448273,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.487902,
+     -47.445098,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.486998,
+     -47.443772,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.485377,
+     -47.441783,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.484668,
+     -47.441016,
+     ""
+    ],
+    [
+     "Rua Ana Monteiro de Carvalho",
+     -23.483098,
+     -47.440126,
+     ""
+    ],
+    [
+     "Rua Ângelo Elias",
+     -23.483012,
+     -47.443348,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.481419,
+     -47.444932,
+     ""
+    ],
+    [
+     "Rua João Cordeiro",
+     -23.47957,
+     -47.44464,
+     ""
+    ],
+    [
+     "Rua João Cordeiro",
+     -23.479733,
+     -47.442437,
+     ""
+    ],
+    [
+     "Rua Professor Luiz de Vasconcelos",
+     -23.477673,
+     -47.442331,
+     ""
+    ],
+    [
+     "Avenida 15 de Agosto",
+     -23.477942,
+     -47.439344,
+     ""
+    ],
+    [
+     "Avenida Professor Joaquim Silva",
+     -23.4779,
+     -47.436843,
+     ""
+    ],
+    [
+     "Alameda Ubatuba",
+     -23.478394,
+     -47.434947,
+     ""
+    ],
+    [
+     "Alameda Ubatuba",
+     -23.480295,
+     -47.435049,
+     ""
+    ],
+    [
+     "Alameda Itanhaém",
+     -23.480898,
+     -47.436424,
+     ""
+    ],
+    [
+     "Alameda Itanhaém",
+     -23.482156,
+     -47.435966,
+     ""
+    ],
+    [
+     "Rua Vicente Matiello",
+     -23.482541,
+     -47.434159,
+     ""
+    ],
+    [
+     "Alameda Casa Branca",
+     -23.481291,
+     -47.432885,
+     ""
+    ],
+    [
+     "Alameda Casa Branca",
+     -23.479648,
+     -47.432073,
+     ""
+    ],
+    [
+     "Avenida Professor Joaquim Silva",
+     -23.47816,
+     -47.431038,
+     ""
+    ],
+    [
+     "Avenida Rudolf Dafferner",
+     -23.477119,
+     -47.428192,
+     ""
+    ],
+    [
+     "Avenida Rudolf Dafferner",
+     -23.475037,
+     -47.424746,
+     ""
+    ],
+    [
+     "Praça Ayrton Senna da Silva",
+     -23.478425,
+     -47.42246,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13922238,
+     14160890
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Praça Ayrton Senna da Silva",
+     -23.478489,
+     -47.422437,
+     ""
+    ],
+    [
+     "Stop 2",
+     -23.475072,
+     -47.423094,
+     ""
+    ],
+    [
+     "Avenida Rudolf Dafferner",
+     -23.474741,
+     -47.424712,
+     ""
+    ],
+    [
+     "Avenida Rudolf Dafferner",
+     -23.477179,
+     -47.428746,
+     ""
+    ],
+    [
+     "Avenida Professor Joaquim Silva",
+     -23.477963,
+     -47.43132,
+     ""
+    ],
+    [
+     "Alameda Atibaia",
+     -23.478437,
+     -47.433449,
+     ""
+    ],
+    [
+     "Alameda Casa Branca",
+     -23.479187,
+     -47.431943,
+     ""
+    ],
+    [
+     "Alameda Casa Branca",
+     -23.480812,
+     -47.432752,
+     ""
+    ],
+    [
+     "Rua Vicente Matiello",
+     -23.482426,
+     -47.434469,
+     ""
+    ],
+    [
+     "Alameda Itanhaém",
+     -23.482176,
+     -47.435851,
+     ""
+    ],
+    [
+     "Alameda Itanhaém",
+     -23.480823,
+     -47.436337,
+     ""
+    ],
+    [
+     "Alameda Itanhaém",
+     -23.479325,
+     -47.436508,
+     ""
+    ],
+    [
+     "Rua Artur Caldini",
+     -23.477808,
+     -47.4391,
+     ""
+    ],
+    [
+     "Avenida Dom Aguirre,4549",
+     -23.477067,
+     -47.442498,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.483505,
+     -47.440047,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.485783,
+     -47.442534,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.487022,
+     -47.444063,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.488957,
+     -47.446447,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.491155,
+     -47.448775,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.490461,
+     -47.453182,
+     ""
+    ],
+    [
+     "Rua Mascarenhas Camelo",
+     -23.490187,
+     -47.454623,
+     ""
+    ],
+    [
+     "Rua Mascarenhas Camelo,871",
+     -23.491148,
+     -47.455271,
+     ""
+    ],
+    [
+     "Rua Mascarenhas Camelo 509",
+     -23.493162,
+     -47.458014,
+     ""
+    ],
+    [
+     "Stop 24",
+     -23.498206,
+     -47.458986,
+     ""
+    ],
+    [
+     "Ponto H - TSA",
+     -23.495371,
+     -47.459584,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_19": {
+   "route_id": "OSM_19",
+   "short": "19",
+   "long": "19 - Progresso",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto G - TSA",
+     -23.495363,
+     -47.459345,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 316",
+     -23.492721,
+     -47.458475,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 772",
+     -23.489757,
+     -47.461221,
+     ""
+    ],
+    [
+     "Rua São Vicente",
+     -23.48771,
+     -47.460148,
+     ""
+    ],
+    [
+     "Rua Bartolomeu Gusmão",
+     -23.487235,
+     -47.457793,
+     ""
+    ],
+    [
+     "Rua Olavo Bilac",
+     -23.487303,
+     -47.454783,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.487731,
+     -47.452046,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.48594,
+     -47.450833,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.484448,
+     -47.449714,
+     ""
+    ],
+    [
+     "Rua Pascoal Leite Paes",
+     -23.482762,
+     -47.448379,
+     ""
+    ],
+    [
+     "Rua Pascoal Leite Paes",
+     -23.481591,
+     -47.448518,
+     ""
+    ],
+    [
+     "Rua Manoel Affonso",
+     -23.481285,
+     -47.449383,
+     ""
+    ],
+    [
+     "Rua Ubirajara",
+     -23.480248,
+     -47.449512,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.478522,
+     -47.448468,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.476589,
+     -47.447077,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.47434,
+     -47.445453,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.473307,
+     -47.444729,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.471259,
+     -47.443235,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.469406,
+     -47.44194,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13920757,
+     14060347
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.469435,
+     -47.44189,
+     ""
+    ],
+    [
+     "Rua Maria do Carmo Mendes",
+     -23.471055,
+     -47.442798,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.472116,
+     -47.444112,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.473448,
+     -47.445066,
+     ""
+    ],
+    [
+     "Rua Doutor Fernando Santos",
+     -23.474823,
+     -47.443995,
+     ""
+    ],
+    [
+     "Rua Doutor Fernando Santos",
+     -23.475973,
+     -47.444842,
+     ""
+    ],
+    [
+     "Rua Doutor Fernando Santos",
+     -23.477053,
+     -47.445606,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.477044,
+     -47.447691,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.478019,
+     -47.448388,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.480921,
+     -47.450495,
+     ""
+    ],
+    [
+     "Avenida Doutor Artur Bernardes",
+     -23.481987,
+     -47.451276,
+     ""
+    ],
+    [
+     "Rua Ubirajara",
+     -23.48376,
+     -47.452907,
+     ""
+    ],
+    [
+     "Avenida Oswaldo Cruz",
+     -23.483595,
+     -47.454588,
+     ""
+    ],
+    [
+     "Rua Doutor Achiles de Almeida",
+     -23.483435,
+     -47.455724,
+     ""
+    ],
+    [
+     "Rua Oliveira César",
+     -23.486258,
+     -47.456085,
+     ""
+    ],
+    [
+     "Rua Oliveira César",
+     -23.486528,
+     -47.458331,
+     ""
+    ],
+    [
+     "Rua São Vicente",
+     -23.488331,
+     -47.460552,
+     ""
+    ],
+    [
+     "Rua Princesa Isabel",
+     -23.488816,
+     -47.462969,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.4904,
+     -47.461893,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.492128,
+     -47.460217,
+     ""
+    ],
+    [
+     "Stop 21",
+     -23.498206,
+     -47.458986,
+     ""
+    ],
+    [
+     "Ponto G - TSA",
+     -23.495363,
+     -47.459345,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_20": {
+   "route_id": "OSM_20",
+   "short": "20",
+   "long": "20 - Terminal São Paulo - Carol",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto G - TSA",
+     -23.495363,
+     -47.459345,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 316",
+     -23.492721,
+     -47.458475,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 772",
+     -23.489757,
+     -47.461221,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo",
+     -23.487587,
+     -47.463305,
+     ""
+    ],
+    [
+     "241",
+     -23.486247,
+     -47.465281,
+     ""
+    ],
+    [
+     "Rua Fernandes Camacho",
+     -23.482809,
+     -47.467919,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.480656,
+     -47.468321,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.479698,
+     -47.466519,
+     ""
+    ],
+    [
+     "Rua Francisco Loureiro",
+     -23.478417,
+     -47.465923,
+     ""
+    ],
+    [
+     "Rua Abbud Bachir Abdalla",
+     -23.478373,
+     -47.467143,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.477071,
+     -47.47009,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.474607,
+     -47.471362,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.472639,
+     -47.472097,
+     ""
+    ],
+    [
+     "Rua Padre José Zanola",
+     -23.471008,
+     -47.473956,
+     ""
+    ],
+    [
+     "Rua Vicente Paes Filho",
+     -23.47273,
+     -47.477756,
+     ""
+    ],
+    [
+     "Alameda Laurindo de Brito",
+     -23.473609,
+     -47.478859,
+     ""
+    ],
+    [
+     "Rua Professor Carvalho Braga",
+     -23.478625,
+     -47.480267,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13923895,
+     14160695
+    ],
+    "operator": "Consórcio Sorocaba",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Rua Professor Carvalho Braga",
+     -23.478683,
+     -47.480287,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.470781,
+     -47.475292,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.472566,
+     -47.474105,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.474449,
+     -47.472608,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.476603,
+     -47.47175,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.478874,
+     -47.470939,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.4803,
+     -47.470267,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.482726,
+     -47.469265,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.485679,
+     -47.467109,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.48642,
+     -47.465921,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.487364,
+     -47.464503,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.4904,
+     -47.461893,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.492128,
+     -47.460217,
+     ""
+    ],
+    [
+     "Stop 14",
+     -23.498206,
+     -47.458986,
+     ""
+    ],
+    [
+     "Ponto G - TSA",
+     -23.495363,
+     -47.459345,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_24": {
+   "route_id": "OSM_24",
+   "short": "24",
+   "long": "24 - Guadalupe / Mercado Distrital",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Major João Elias",
+     -23.493663,
+     -47.462731,
+     ""
+    ],
+    [
+     "Rua Escolástica Rosa de Almeida",
+     -23.4924,
+     -47.461699,
+     ""
+    ],
+    [
+     "Rua Escolástica Rosa de Almeida",
+     -23.490862,
+     -47.463161,
+     ""
+    ],
+    [
+     "Rua Escolástica Rosa de Almeida",
+     -23.48966,
+     -47.464334,
+     ""
+    ],
+    [
+     "Rua Escolástica Rosa de Almeida",
+     -23.488163,
+     -47.465765,
+     ""
+    ],
+    [
+     "Rua Escolástica Rosa de Almeida",
+     -23.486925,
+     -47.466957,
+     ""
+    ],
+    [
+     "Avenida Brasil",
+     -23.485927,
+     -47.468695,
+     ""
+    ],
+    [
+     "Avenida Brasil",
+     -23.487562,
+     -47.471162,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.484334,
+     -47.465969,
+     ""
+    ],
+    [
+     "Rua Hortêncio Soares Martins",
+     -23.483251,
+     -47.461463,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.482684,
+     -47.46058,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.481298,
+     -47.458932,
+     ""
+    ],
+    [
+     "Rua Joana Miranda Correa",
+     -23.481075,
+     -47.4598,
+     ""
+    ],
+    [
+     "Rua Alcidália dos Santos",
+     -23.480525,
+     -47.460888,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.479703,
+     -47.461546,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.478095,
+     -47.462364,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.47684,
+     -47.463013,
+     ""
+    ],
+    [
+     "Rua Mário Fidêncio da Rosa",
+     -23.474259,
+     -47.46379,
+     ""
+    ],
+    [
+     "Rua Pedro Pegoretti",
+     -23.472438,
+     -47.464725,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.469957,
+     -47.464003,
+     ""
+    ],
+    [
+     "Rua Abner Pedroso de Alcântara",
+     -23.465156,
+     -47.464828,
+     ""
+    ],
+    [
+     "Rua Benito Hernandez Martinez",
+     -23.46441,
+     -47.465533,
+     ""
+    ],
+    [
+     "Rua Najla Amary Murad",
+     -23.465338,
+     -47.46697,
+     ""
+    ],
+    [
+     "Rua Angelina Pelizari Costa",
+     -23.464979,
+     -47.46842,
+     ""
+    ],
+    [
+     "Rua Girolano Caldarola",
+     -23.46504,
+     -47.470121,
+     ""
+    ],
+    [
+     "Rua Luiz Ricardo Maffei",
+     -23.466054,
+     -47.471516,
+     ""
+    ],
+    [
+     "Rua Luiz Ricardo Maffei",
+     -23.467016,
+     -47.472861,
+     ""
+    ],
+    [
+     "Rua Luiz Ricardo Maffei",
+     -23.468478,
+     -47.475147,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14057743,
+     14057749
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Rua Luiz Ricardo Maffei",
+     -23.468478,
+     -47.475147,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.469128,
+     -47.475541,
+     ""
+    ],
+    [
+     "Rua Doutor Altino Arantes",
+     -23.468594,
+     -47.474047,
+     ""
+    ],
+    [
+     "Rua Doutor Altino Arantes",
+     -23.466054,
+     -47.470638,
+     ""
+    ],
+    [
+     "Rua Angelina Pelizari Costa",
+     -23.465789,
+     -47.46761,
+     ""
+    ],
+    [
+     "Rua Abner Pedroso de Alcântara",
+     -23.465397,
+     -47.465073,
+     ""
+    ],
+    [
+     "Rua Antero José da Rosa",
+     -23.466949,
+     -47.463822,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.468263,
+     -47.462974,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.470023,
+     -47.464128,
+     ""
+    ],
+    [
+     "Rua Pedro Pegoretti",
+     -23.472492,
+     -47.464813,
+     ""
+    ],
+    [
+     "Rua Major Arthur da Cunha Soares",
+     -23.4737,
+     -47.464397,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.474911,
+     -47.4641,
+     ""
+    ],
+    [
+     "Rua Francisco Catalano",
+     -23.476061,
+     -47.46425,
+     ""
+    ],
+    [
+     "Rua Francisco Catalano",
+     -23.477923,
+     -47.463295,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.479821,
+     -47.461629,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.481756,
+     -47.460645,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.483056,
+     -47.463206,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.484055,
+     -47.465903,
+     ""
+    ],
+    [
+     "Avenida Brasil",
+     -23.485927,
+     -47.468695,
+     ""
+    ],
+    [
+     "Rua Doutor Rubino de Oliveira",
+     -23.487773,
+     -47.469842,
+     ""
+    ],
+    [
+     "Rua Doutor Rubino de Oliveira",
+     -23.488484,
+     -47.469145,
+     ""
+    ],
+    [
+     "Rua Doutor Rubino de Oliveira",
+     -23.489823,
+     -47.467872,
+     ""
+    ],
+    [
+     "Rua Andrelino de Camargo",
+     -23.491422,
+     -47.468476,
+     ""
+    ],
+    [
+     "Avenida General Osório",
+     -23.494785,
+     -47.464109,
+     ""
+    ],
+    [
+     "Praça Comendador Nicolau Scarpa",
+     -23.498091,
+     -47.460519,
+     ""
+    ],
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_28": {
+   "route_id": "OSM_28",
+   "short": "28",
+   "long": "28 - Mineirão / São Conrado",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 316",
+     -23.492721,
+     -47.458475,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 772",
+     -23.489757,
+     -47.461221,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo",
+     -23.487587,
+     -47.463305,
+     ""
+    ],
+    [
+     "241",
+     -23.486247,
+     -47.465281,
+     ""
+    ],
+    [
+     "Rua Fernandes Camacho",
+     -23.482809,
+     -47.467919,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.480656,
+     -47.468321,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.479698,
+     -47.466519,
+     ""
+    ],
+    [
+     "Rua Francisco Loureiro",
+     -23.478417,
+     -47.465923,
+     ""
+    ],
+    [
+     "Rua Francisco Loureiro",
+     -23.477116,
+     -47.466587,
+     ""
+    ],
+    [
+     "Rua Major Arthur da Cunha Soares",
+     -23.475954,
+     -47.466996,
+     ""
+    ],
+    [
+     "Rua Major Arthur da Cunha Soares",
+     -23.475,
+     -47.465539,
+     ""
+    ],
+    [
+     "Rua Mário Fidêncio da Rosa",
+     -23.474652,
+     -47.46468,
+     ""
+    ],
+    [
+     "Rua Mário Fidêncio da Rosa",
+     -23.474259,
+     -47.46379,
+     ""
+    ],
+    [
+     "Rua Pedro Pegoretti",
+     -23.472438,
+     -47.464725,
+     ""
+    ],
+    [
+     "Rua Pedro Lombardi",
+     -23.469957,
+     -47.464003,
+     ""
+    ],
+    [
+     "Rua Abner Pedroso de Alcântara",
+     -23.465156,
+     -47.464828,
+     ""
+    ],
+    [
+     "Rua Benito Hernandez Martinez",
+     -23.46441,
+     -47.465533,
+     ""
+    ],
+    [
+     "Rua Najla Amary Murad",
+     -23.465338,
+     -47.46697,
+     ""
+    ],
+    [
+     "Rua Angelina Pelizari Costa",
+     -23.464979,
+     -47.46842,
+     ""
+    ],
+    [
+     "Rua Girolano Caldarola",
+     -23.46504,
+     -47.470121,
+     ""
+    ],
+    [
+     "Rua Luiz Ricardo Maffei",
+     -23.466054,
+     -47.471516,
+     ""
+    ],
+    [
+     "Rua José Aparecido de Souza",
+     -23.466144,
+     -47.473016,
+     ""
+    ],
+    [
+     "Rua Raimundo Fructuoso da Silva",
+     -23.465078,
+     -47.472973,
+     ""
+    ],
+    [
+     "Rua João Martini Filho",
+     -23.463572,
+     -47.472246,
+     ""
+    ],
+    [
+     "Rua João Martini Filho",
+     -23.461932,
+     -47.470522,
+     ""
+    ],
+    [
+     "Rua José Pezzato",
+     -23.460569,
+     -47.468816,
+     ""
+    ],
+    [
+     "Rua Raimundo Fructuoso da Silva",
+     -23.461652,
+     -47.469485,
+     ""
+    ],
+    [
+     "Rua Antero José da Rosa",
+     -23.463292,
+     -47.467836,
+     ""
+    ],
+    [
+     "Rua Doutor Altino Arantes",
+     -23.462174,
+     -47.466399,
+     ""
+    ],
+    [
+     "Avenida Dalva Prado Marcondes",
+     -23.459924,
+     -47.467056,
+     ""
+    ],
+    [
+     "Rua Raimundo Fructuoso da Silva",
+     -23.458868,
+     -47.466419,
+     ""
+    ],
+    [
+     "Rua Adelaide Lamberti Diener",
+     -23.458166,
+     -47.465148,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13920528,
+     13923965
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   }
+  },
+  "OSM_30": {
+   "route_id": "OSM_30",
+   "short": "30",
+   "long": "30 -Terminal São Paulo - AT Brigadeiro Tobias",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Stop 1",
+     -23.499569,
+     -47.446736,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498683,
+     -47.443949,
+     ""
+    ],
+    [
+     "Rua Américo Brasiliense",
+     -23.49735,
+     -47.440281,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.496683,
+     -47.439707,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49474,
+     -47.437366,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.492738,
+     -47.434853,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489668,
+     -47.427922,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489003,
+     -47.424949,
+     ""
+    ],
+    [
+     "Rua Dionísio Reis dos Santos",
+     -23.489451,
+     -47.420559,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489945,
+     -47.417857,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.492878,
+     -47.410961,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.493751,
+     -47.406685,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.494255,
+     -47.402819,
+     ""
+    ],
+    [
+     "Rodovia Raposo Tavares (Marginal)",
+     -23.49511,
+     -47.401055,
+     ""
+    ],
+    [
+     "Rodovia Doutor Celso Charuri",
+     -23.494983,
+     -47.397506,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.495876,
+     -47.391583,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.496033,
+     -47.388792,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.501175,
+     -47.37587,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.506431,
+     -47.370274,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.507662,
+     -47.368168,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.508163,
+     -47.366301,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14059670,
+     14168889
+    ],
+    "operator": "City Transportes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Área de Transferência Brigadeiro Tobias - Sentido Centro",
+     -23.508078,
+     -47.364745,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.508035,
+     -47.366473,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.507683,
+     -47.36781,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.50649,
+     -47.370005,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.503928,
+     -47.371938,
+     ""
+    ],
+    [
+     "Avenida Bandeirantes",
+     -23.500593,
+     -47.376143,
+     ""
+    ],
+    [
+     "Rodovia Raposo Tavares",
+     -23.498346,
+     -47.379076,
+     ""
+    ],
+    [
+     "Rodovia Raposo Tavares",
+     -23.495663,
+     -47.388864,
+     ""
+    ],
+    [
+     "Rodovia Raposo Tavares",
+     -23.494664,
+     -47.397379,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.494026,
+     -47.403066,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.493493,
+     -47.407435,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.492191,
+     -47.411802,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489748,
+     -47.417779,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.488897,
+     -47.42199,
+     ""
+    ],
+    [
+     "Parada Supermercado Confiança",
+     -23.489584,
+     -47.428784,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49033,
+     -47.430972,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49231,
+     -47.434769,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.493577,
+     -47.436231,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.495713,
+     -47.438901,
+     ""
+    ],
+    [
+     "Parada Amiga",
+     -23.497396,
+     -47.440749,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498602,
+     -47.444262,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.499598,
+     -47.447214,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.500614,
+     -47.449943,
+     ""
+    ],
+    [
+     "Praça Doutor Arthur Fajardo",
+     -23.500256,
+     -47.454148,
+     ""
+    ],
+    [
+     "Ponto E  TSP",
+     -23.505223,
+     -47.452481,
+     "EST_TERMINAL_SAO_PAULO"
+    ]
+   ]
+  },
+  "OSM_36": {
+   "route_id": "OSM_36",
+   "short": "36",
+   "long": "36 - Porcel",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto G - TSA",
+     -23.495363,
+     -47.459345,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Stop 2",
+     -23.498206,
+     -47.458986,
+     ""
+    ],
+    [
+     "Rua Baltazar Fernandes",
+     -23.491491,
+     -47.459319,
+     ""
+    ],
+    [
+     "Rua Baltazar Fernandes",
+     -23.490004,
+     -47.457841,
+     ""
+    ],
+    [
+     "Rua João Nascimento",
+     -23.488046,
+     -47.45574,
+     ""
+    ],
+    [
+     "Rua Dom José Gaspar",
+     -23.486017,
+     -47.455342,
+     ""
+    ],
+    [
+     "Rua Rodrigues Alves",
+     -23.486964,
+     -47.45324,
+     ""
+    ],
+    [
+     "Avenida Oswaldo Cruz",
+     -23.485602,
+     -47.451927,
+     ""
+    ],
+    [
+     "Rua Guanabara",
+     -23.484704,
+     -47.451007,
+     ""
+    ],
+    [
+     "Rua Guanabara",
+     -23.483316,
+     -47.450152,
+     ""
+    ],
+    [
+     "Rua Guanabara",
+     -23.481723,
+     -47.449198,
+     ""
+    ],
+    [
+     "Rua Nicolau Perrela",
+     -23.480783,
+     -47.447676,
+     ""
+    ],
+    [
+     "Rua Afonso Sardinha",
+     -23.481623,
+     -47.446919,
+     ""
+    ],
+    [
+     "Rua Marquês de Paranaguá",
+     -23.482616,
+     -47.44575,
+     ""
+    ],
+    [
+     "Rua Medeiros Simas",
+     -23.482878,
+     -47.44454,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.481923,
+     -47.444194,
+     ""
+    ],
+    [
+     "Rua Avelino Rocha",
+     -23.481255,
+     -47.445108,
+     ""
+    ],
+    [
+     "Rua Nicolau Perrela",
+     -23.480519,
+     -47.444048,
+     ""
+    ],
+    [
+     "Rua Nicolau Perrela",
+     -23.480595,
+     -47.442723,
+     ""
+    ],
+    [
+     "Rua João Cordeiro",
+     -23.47963,
+     -47.441999,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13917366,
+     13917392
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   }
+  },
+  "OSM_45": {
+   "route_id": "OSM_45",
+   "short": "45",
+   "long": "45 - Retiro São João / Abaeté",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Rua Comendador Hermelino Matarazzo",
+     -23.492723,
+     -47.458501,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo",
+     -23.489776,
+     -47.461245,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo",
+     -23.487606,
+     -47.463331,
+     ""
+    ],
+    [
+     "Rua Jaromiro Blaseck",
+     -23.486394,
+     -47.462734,
+     ""
+    ],
+    [
+     "Rua Jaromiro Blaseck",
+     -23.485746,
+     -47.461666,
+     ""
+    ],
+    [
+     "Rua Professora Clélia Guerra Cunha,42",
+     -23.484775,
+     -47.460667,
+     ""
+    ],
+    [
+     "Avenida Doutor Thomaz Cortez",
+     -23.483022,
+     -47.460506,
+     ""
+    ],
+    [
+     "Rua Júlio Ribeiro",
+     -23.481796,
+     -47.458592,
+     ""
+    ],
+    [
+     "Rua Júlio Ribeiro",
+     -23.483619,
+     -47.456138,
+     ""
+    ],
+    [
+     "Rua Júlio Ribeiro",
+     -23.484748,
+     -47.454621,
+     ""
+    ],
+    [
+     "Rua João Nascimento",
+     -23.48506,
+     -47.45336,
+     ""
+    ],
+    [
+     "Rua Ubirajara",
+     -23.483134,
+     -47.452168,
+     ""
+    ],
+    [
+     "Rua Jorge Tibiriçá Piratininga",
+     -23.481376,
+     -47.451057,
+     ""
+    ],
+    [
+     "Rua Jorge Tibiriçá Piratininga",
+     -23.480597,
+     -47.452045,
+     ""
+    ],
+    [
+     "Rua Jorge Tibiriçá Piratininga",
+     -23.479608,
+     -47.453286,
+     ""
+    ],
+    [
+     "Rua Joaquim Ferreira Barbosa",
+     -23.478128,
+     -47.452263,
+     ""
+    ],
+    [
+     "Rua Eugênio Marte",
+     -23.476163,
+     -47.451065,
+     ""
+    ],
+    [
+     "Rua Eugênio Marte",
+     -23.474612,
+     -47.450959,
+     ""
+    ],
+    [
+     "Rua Orville Correia de Toledo",
+     -23.472621,
+     -47.450136,
+     ""
+    ],
+    [
+     "Rua Orville Correia de Toledo",
+     -23.473772,
+     -47.448705,
+     ""
+    ],
+    [
+     "Rua Joaquim Ferreira Barbosa",
+     -23.472692,
+     -47.447245,
+     ""
+    ],
+    [
+     "Rua Manoel Correia",
+     -23.472202,
+     -47.443684,
+     ""
+    ],
+    [
+     "Avenida Dom Aguirre",
+     -23.475558,
+     -47.442948,
+     ""
+    ],
+    [
+     "Rua Rosa Nunes de Oliveira",
+     -23.477754,
+     -47.444316,
+     ""
+    ],
+    [
+     "Rua Pedro Álvares Cabral",
+     -23.477654,
+     -47.442774,
+     ""
+    ],
+    [
+     "Avenida 15 de Agosto",
+     -23.474616,
+     -47.442005,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.471785,
+     -47.440944,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.472299,
+     -47.439417,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.472845,
+     -47.437852,
+     ""
+    ],
+    [
+     "Rua Araraquara",
+     -23.470558,
+     -47.436659,
+     ""
+    ],
+    [
+     "Rua Dracena",
+     -23.471042,
+     -47.434902,
+     ""
+    ],
+    [
+     "Rua Fernandópolis",
+     -23.470666,
+     -47.433567,
+     ""
+    ],
+    [
+     "Rua Maria Terci",
+     -23.468781,
+     -47.433181,
+     ""
+    ],
+    [
+     "Rua Maria Terci",
+     -23.467701,
+     -47.432734,
+     ""
+    ],
+    [
+     "Rua Catanduva",
+     -23.466215,
+     -47.433588,
+     ""
+    ],
+    [
+     "Rua Catanduva",
+     -23.467018,
+     -47.434947,
+     ""
+    ],
+    [
+     "Rua Araraquara",
+     -23.469357,
+     -47.436284,
+     ""
+    ],
+    [
+     "Rua Fernandópolis",
+     -23.469267,
+     -47.437636,
+     ""
+    ],
+    [
+     "Rua Fernandópolis",
+     -23.46853,
+     -47.439696,
+     ""
+    ],
+    [
+     "Rua Rita de Carvalho Monteiro",
+     -23.464568,
+     -47.442434,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14169069,
+     14277084
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Rua Arlete Pimentel Viesi",
+     -23.460429,
+     -47.439967,
+     ""
+    ],
+    [
+     "Rua Alceste Del Cistia",
+     -23.460282,
+     -47.440806,
+     ""
+    ],
+    [
+     "Rua Alceste Del Cistia",
+     -23.461164,
+     -47.441834,
+     ""
+    ],
+    [
+     "Rua Pedro Wurschig",
+     -23.462713,
+     -47.440931,
+     ""
+    ],
+    [
+     "Rua Antônio Roque Rodrigues",
+     -23.464826,
+     -47.441628,
+     ""
+    ],
+    [
+     "Avenida 15 de Agosto",
+     -23.467535,
+     -47.440849,
+     ""
+    ],
+    [
+     "Rua Fernandópolis",
+     -23.468782,
+     -47.439278,
+     ""
+    ],
+    [
+     "Rua Fernandópolis",
+     -23.469359,
+     -47.437693,
+     ""
+    ],
+    [
+     "Rua Araraquara",
+     -23.468823,
+     -47.435939,
+     ""
+    ],
+    [
+     "Rua Catanduva",
+     -23.467284,
+     -47.435011,
+     ""
+    ],
+    [
+     "Rua Catanduva",
+     -23.466389,
+     -47.433498,
+     ""
+    ],
+    [
+     "Rua Maria Terci",
+     -23.467945,
+     -47.432942,
+     ""
+    ],
+    [
+     "Rua Maria Terci",
+     -23.469058,
+     -47.433424,
+     ""
+    ],
+    [
+     "Rua Maria Terci",
+     -23.470395,
+     -47.434002,
+     ""
+    ],
+    [
+     "Rua Dracena",
+     -23.470989,
+     -47.434742,
+     ""
+    ],
+    [
+     "Rua Araraquara",
+     -23.470691,
+     -47.436833,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.472735,
+     -47.437921,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.472112,
+     -47.439657,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.471621,
+     -47.441123,
+     ""
+    ],
+    [
+     "Avenida 15 de Agosto",
+     -23.474446,
+     -47.442138,
+     ""
+    ],
+    [
+     "Rua Francisco Xavier de Barros",
+     -23.475698,
+     -47.444257,
+     ""
+    ],
+    [
+     "Rua Francisco Xavier de Barros",
+     -23.474043,
+     -47.446917,
+     ""
+    ],
+    [
+     "Rua Orville Correia de Toledo",
+     -23.47372,
+     -47.448602,
+     ""
+    ],
+    [
+     "Rua Orville Correia de Toledo",
+     -23.472596,
+     -47.450034,
+     ""
+    ],
+    [
+     "Rua Eugênio Marte",
+     -23.47376,
+     -47.450897,
+     ""
+    ],
+    [
+     "Rua Joaquim Ferreira Barbosa",
+     -23.476653,
+     -47.451048,
+     ""
+    ],
+    [
+     "Rua Joaquim Ferreira Barbosa",
+     -23.478491,
+     -47.45274,
+     ""
+    ],
+    [
+     "Rua Odorico Vieira",
+     -23.480312,
+     -47.453633,
+     ""
+    ],
+    [
+     "Rua Odorico Vieira",
+     -23.482069,
+     -47.451406,
+     ""
+    ],
+    [
+     "Rua Ubirajara",
+     -23.48376,
+     -47.452907,
+     ""
+    ],
+    [
+     "Avenida Oswaldo Cruz",
+     -23.483595,
+     -47.454588,
+     ""
+    ],
+    [
+     "Avenida Oswaldo Cruz",
+     -23.482329,
+     -47.456349,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.481298,
+     -47.458932,
+     ""
+    ],
+    [
+     "Rua Joana Miranda Correa",
+     -23.481075,
+     -47.4598,
+     ""
+    ],
+    [
+     "Rua Alcidália dos Santos",
+     -23.480525,
+     -47.460888,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.481756,
+     -47.460645,
+     ""
+    ],
+    [
+     "Rua Gonçalves Crespo",
+     -23.482132,
+     -47.45926,
+     ""
+    ],
+    [
+     "Rua Aguiar de Barros",
+     -23.484031,
+     -47.460079,
+     ""
+    ],
+    [
+     "Rua Professora Clélia Guerra Cunha",
+     -23.484912,
+     -47.460679,
+     ""
+    ],
+    [
+     "Rua Jaromiro Blaseck",
+     -23.485603,
+     -47.461595,
+     ""
+    ],
+    [
+     "Rua Silva Abreu",
+     -23.487225,
+     -47.463011,
+     ""
+    ],
+    [
+     "Rua Domingos Angelotti",
+     -23.487077,
+     -47.464521,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.487411,
+     -47.464572,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.4904,
+     -47.461893,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.49217,
+     -47.460242,
+     ""
+    ],
+    [
+     "Stop 46",
+     -23.498206,
+     -47.458986,
+     ""
+    ],
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_50": {
+   "route_id": "OSM_50",
+   "short": "50",
+   "long": "50 - Hungarês",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Rua Antônio Fausto",
+     -23.473784,
+     -47.467689,
+     ""
+    ],
+    [
+     "Rua José Maria Lisboa",
+     -23.472982,
+     -47.467074,
+     ""
+    ],
+    [
+     "Rua José Pistelli",
+     -23.471793,
+     -47.466777,
+     ""
+    ],
+    [
+     "Rua Professor Armando Rizzo",
+     -23.469576,
+     -47.467755,
+     ""
+    ],
+    [
+     "Rua Professor Armando Rizzo",
+     -23.471225,
+     -47.469381,
+     ""
+    ],
+    [
+     "Rua Professor Armando Rizzo",
+     -23.472163,
+     -47.470329,
+     ""
+    ],
+    [
+     "Rua Padre José Zanola",
+     -23.47028,
+     -47.472344,
+     ""
+    ],
+    [
+     "Rua Padre José Zanola",
+     -23.471008,
+     -47.473956,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.472566,
+     -47.474105,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.474449,
+     -47.472608,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.476603,
+     -47.47175,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.478874,
+     -47.470939,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.4803,
+     -47.470267,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.482726,
+     -47.469265,
+     ""
+    ],
+    [
+     "Avenida Brasil",
+     -23.485927,
+     -47.468695,
+     ""
+    ],
+    [
+     "Rua Voluntários da Pátria",
+     -23.486833,
+     -47.468936,
+     ""
+    ],
+    [
+     "Rua Doutor Rubino de Oliveira",
+     -23.490876,
+     -47.466658,
+     ""
+    ],
+    [
+     "Rua Andrelino de Camargo",
+     -23.491422,
+     -47.468476,
+     ""
+    ],
+    [
+     "Avenida General Osório",
+     -23.494785,
+     -47.464109,
+     ""
+    ],
+    [
+     "Praça Comendador Nicolau Scarpa",
+     -23.498091,
+     -47.460519,
+     ""
+    ],
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ],
+   "osm": {
+    "relations": [
+     12199144,
+     13916190
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Major João Elias",
+     -23.493663,
+     -47.462731,
+     ""
+    ],
+    [
+     "Rua Escolástica Rosa de Almeida",
+     -23.4924,
+     -47.461699,
+     ""
+    ],
+    [
+     "Rua Escolástica Rosa de Almeida",
+     -23.490862,
+     -47.463161,
+     ""
+    ],
+    [
+     "Rua Escolástica Rosa de Almeida",
+     -23.48966,
+     -47.464334,
+     ""
+    ],
+    [
+     "Avenida Brasil",
+     -23.487562,
+     -47.471162,
+     ""
+    ],
+    [
+     "Rua Maciel Baião",
+     -23.485819,
+     -47.472265,
+     ""
+    ],
+    [
+     "Rua Padre José Maurício",
+     -23.482917,
+     -47.470687,
+     ""
+    ],
+    [
+     "Rua José Army Rosa",
+     -23.482137,
+     -47.468926,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.480656,
+     -47.468321,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.479524,
+     -47.468882,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.477071,
+     -47.47009,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.474607,
+     -47.471362,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.472639,
+     -47.472097,
+     ""
+    ],
+    [
+     "Rua Padre José Zanola",
+     -23.470642,
+     -47.473014,
+     ""
+    ],
+    [
+     "Rua Padre Donizete",
+     -23.47216,
+     -47.471046,
+     ""
+    ],
+    [
+     "Rua José Pistelli",
+     -23.471813,
+     -47.466928,
+     ""
+    ],
+    [
+     "Rua Antônio Fausto",
+     -23.473774,
+     -47.467669,
+     ""
+    ]
+   ]
+  },
+  "OSM_52": {
+   "route_id": "OSM_52",
+   "short": "52",
+   "long": "52 - Cidade Universitária (UNISO)",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto C - TSP",
+     -23.504638,
+     -47.45274,
+     "EST_TERMINAL_SAO_PAULO"
+    ],
+    [
+     "Stop 2",
+     -23.499569,
+     -47.446736,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498683,
+     -47.443949,
+     ""
+    ],
+    [
+     "Rua Américo Brasiliense",
+     -23.49735,
+     -47.440281,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.496683,
+     -47.439707,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49474,
+     -47.437366,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.492738,
+     -47.434853,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489668,
+     -47.427922,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489003,
+     -47.424949,
+     ""
+    ],
+    [
+     "Rua Dionísio Reis dos Santos",
+     -23.489451,
+     -47.420559,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489945,
+     -47.417857,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.492878,
+     -47.410961,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.493751,
+     -47.406685,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.494255,
+     -47.402819,
+     ""
+    ],
+    [
+     "Stop 15",
+     -23.498682,
+     -47.395717,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13917307,
+     13920023
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Stop 1",
+     -23.498682,
+     -47.395717,
+     ""
+    ],
+    [
+     "Rodovia Doutor Celso Charuri",
+     -23.494983,
+     -47.397506,
+     ""
+    ],
+    [
+     "Rodovia Raposo Tavares",
+     -23.494664,
+     -47.397379,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.494026,
+     -47.403066,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.493493,
+     -47.407435,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.492191,
+     -47.411802,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489748,
+     -47.417779,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.488897,
+     -47.42199,
+     ""
+    ],
+    [
+     "Parada Supermercado Confiança",
+     -23.489584,
+     -47.428784,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49033,
+     -47.430972,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49231,
+     -47.434769,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.493577,
+     -47.436231,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.495713,
+     -47.438901,
+     ""
+    ],
+    [
+     "Parada Amiga",
+     -23.497396,
+     -47.440749,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498602,
+     -47.444262,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.499598,
+     -47.447214,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.500614,
+     -47.449943,
+     ""
+    ],
+    [
+     "Praça Doutor Arthur Fajardo",
+     -23.500256,
+     -47.454148,
+     ""
+    ],
+    [
+     "Ponto C - TSP",
+     -23.504638,
+     -47.45274,
+     "EST_TERMINAL_SAO_PAULO"
+    ]
+   ]
+  },
+  "OSM_52B": {
+   "route_id": "OSM_52B",
+   "short": "52b",
+   "long": "52 - Cidade Universitária (UNISO)",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Stop 1",
+     -23.498682,
+     -47.395717,
+     ""
+    ],
+    [
+     "Rodovia Doutor Celso Charuri",
+     -23.494983,
+     -47.397506,
+     ""
+    ],
+    [
+     "Rodovia Raposo Tavares",
+     -23.494664,
+     -47.397379,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.494026,
+     -47.403066,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.493493,
+     -47.407435,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.492191,
+     -47.411802,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489748,
+     -47.417779,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.488897,
+     -47.42199,
+     ""
+    ],
+    [
+     "Rodovia Waldomiro Corrêa de Camargo",
+     -23.486234,
+     -47.427662,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.48622,
+     -47.43232,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.486773,
+     -47.434396,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.488975,
+     -47.43687,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.491089,
+     -47.439179,
+     ""
+    ],
+    [
+     "Avenida Dom Aguirre",
+     -23.490948,
+     -47.442776,
+     ""
+    ],
+    [
+     "Avenida Doutor Afonso Vergueiro",
+     -23.496415,
+     -47.45478,
+     ""
+    ],
+    [
+     "Ponto Q - TSA",
+     -23.495664,
+     -47.460066,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13920068
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   }
+  },
+  "OSM_52C": {
+   "route_id": "OSM_52C",
+   "short": "52c",
+   "long": "52 - Cidade Universitária (UNISO)",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Stop 1",
+     -23.498682,
+     -47.395717,
+     ""
+    ],
+    [
+     "Rodovia Doutor Celso Charuri",
+     -23.494983,
+     -47.397506,
+     ""
+    ],
+    [
+     "Rodovia Raposo Tavares",
+     -23.494664,
+     -47.397379,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.494026,
+     -47.403066,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.493493,
+     -47.407435,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.492191,
+     -47.411802,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489748,
+     -47.417779,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.488897,
+     -47.42199,
+     ""
+    ],
+    [
+     "Parada Supermercado Confiança",
+     -23.489584,
+     -47.428784,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49033,
+     -47.430972,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49231,
+     -47.434769,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.493577,
+     -47.436231,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.495713,
+     -47.438901,
+     ""
+    ],
+    [
+     "Parada Amiga",
+     -23.497396,
+     -47.440749,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498602,
+     -47.444262,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.499598,
+     -47.447214,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.500614,
+     -47.449943,
+     ""
+    ],
+    [
+     "Rua Souza Pereira",
+     -23.500568,
+     -47.453346,
+     ""
+    ],
+    [
+     "Rua Souza Pereira",
+     -23.498394,
+     -47.4543,
+     ""
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.497397,
+     -47.455953,
+     ""
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.497748,
+     -47.457822,
+     ""
+    ],
+    [
+     "Ponto Q - TSA",
+     -23.495664,
+     -47.460066,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13923843
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   }
+  },
+  "OSM_54": {
+   "route_id": "OSM_54",
+   "short": "54",
+   "long": "54 - Paes de Linhares / Abaeté",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto M - TSA",
+     -23.495694,
+     -47.459247,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 316",
+     -23.492721,
+     -47.458475,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 772",
+     -23.489757,
+     -47.461221,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo",
+     -23.487587,
+     -47.463305,
+     ""
+    ],
+    [
+     "241",
+     -23.486247,
+     -47.465281,
+     ""
+    ],
+    [
+     "Rua Fernandes Camacho",
+     -23.482809,
+     -47.467919,
+     ""
+    ],
+    [
+     "Rua Olegário Ribeiro",
+     -23.4809,
+     -47.467645,
+     ""
+    ],
+    [
+     "Rua Olegário Ribeiro",
+     -23.480305,
+     -47.466285,
+     ""
+    ],
+    [
+     "Rua Xavier de Toledo",
+     -23.480286,
+     -47.463572,
+     ""
+    ],
+    [
+     "Rua Xavier de Toledo",
+     -23.479823,
+     -47.462412,
+     ""
+    ],
+    [
+     "Rua Benedito Galdino de Barros",
+     -23.478095,
+     -47.462364,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.477215,
+     -47.460825,
+     ""
+    ],
+    [
+     "Rua Paes de Linhares",
+     -23.476262,
+     -47.458963,
+     ""
+    ],
+    [
+     "Rua Luzerne Proença Arruda",
+     -23.477201,
+     -47.457512,
+     ""
+    ],
+    [
+     "Rua Luzerne Proença Arruda",
+     -23.478522,
+     -47.456178,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.479435,
+     -47.456837,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.479864,
+     -47.456867,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.477859,
+     -47.454963,
+     ""
+    ],
+    [
+     "Rua Jorge Tibiriçá Piratininga",
+     -23.479392,
+     -47.453714,
+     ""
+    ],
+    [
+     "Rua Joaquim Ferreira Barbosa",
+     -23.478128,
+     -47.452263,
+     ""
+    ],
+    [
+     "Rua Eugênio Marte",
+     -23.476163,
+     -47.451065,
+     ""
+    ],
+    [
+     "Rua Eugênio Marte",
+     -23.474612,
+     -47.450959,
+     ""
+    ],
+    [
+     "Rua Orville Correia de Toledo",
+     -23.472621,
+     -47.450136,
+     ""
+    ],
+    [
+     "Rua Orville Correia de Toledo",
+     -23.473772,
+     -47.448705,
+     ""
+    ],
+    [
+     "Rua Antônio Joaquim Santana",
+     -23.472285,
+     -47.448249,
+     ""
+    ],
+    [
+     "Rua Eugênio Marte",
+     -23.471106,
+     -47.449904,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13924280,
+     14059105
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   }
+  },
+  "OSM_56": {
+   "route_id": "OSM_56",
+   "short": "56",
+   "long": "56 - Iguatemi",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto K - TSP",
+     -23.504609,
+     -47.45249,
+     "EST_TERMINAL_SAO_PAULO"
+    ],
+    [
+     "Stop 2",
+     -23.499569,
+     -47.446736,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498683,
+     -47.443949,
+     ""
+    ],
+    [
+     "Rua Américo Brasiliense",
+     -23.49735,
+     -47.440281,
+     ""
+    ],
+    [
+     "Rua João Ferreira da Silva",
+     -23.496864,
+     -47.441653,
+     ""
+    ],
+    [
+     "Rua Cruz e Souza",
+     -23.495609,
+     -47.44104,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.493623,
+     -47.441816,
+     ""
+    ],
+    [
+     "Rua Maria Cinto de Biaggi",
+     -23.488871,
+     -47.443347,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.486998,
+     -47.443772,
+     ""
+    ],
+    [
+     "Avenida Roberto Simonsen",
+     -23.483907,
+     -47.441982,
+     ""
+    ],
+    [
+     "Rua Ângelo Elias",
+     -23.483012,
+     -47.443348,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.481419,
+     -47.444932,
+     ""
+    ],
+    [
+     "Rua Pedro Álvares Cabral",
+     -23.478337,
+     -47.444642,
+     ""
+    ],
+    [
+     "Rua Pedro Álvares Cabral",
+     -23.477654,
+     -47.442774,
+     ""
+    ],
+    [
+     "Avenida 15 de Agosto",
+     -23.474616,
+     -47.442005,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.471785,
+     -47.440944,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.472299,
+     -47.439417,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.472845,
+     -47.437852,
+     ""
+    ],
+    [
+     "Rua Araraquara",
+     -23.470558,
+     -47.436659,
+     ""
+    ],
+    [
+     "Rua Dracena",
+     -23.471042,
+     -47.434902,
+     ""
+    ],
+    [
+     "Rua Fernandópolis",
+     -23.470666,
+     -47.433567,
+     ""
+    ],
+    [
+     "Rua Maria Terci",
+     -23.468781,
+     -47.433181,
+     ""
+    ],
+    [
+     "Rua Maria Terci",
+     -23.467701,
+     -47.432734,
+     ""
+    ],
+    [
+     "Rua Catanduva",
+     -23.466215,
+     -47.433588,
+     ""
+    ],
+    [
+     "Rua Catanduva",
+     -23.467018,
+     -47.434947,
+     ""
+    ],
+    [
+     "Rua Araraquara",
+     -23.469357,
+     -47.436284,
+     ""
+    ],
+    [
+     "Rua Fernandópolis",
+     -23.469267,
+     -47.437636,
+     ""
+    ],
+    [
+     "Rua Fernandópolis",
+     -23.46853,
+     -47.439696,
+     ""
+    ],
+    [
+     "Rua Rita de Carvalho Monteiro",
+     -23.464568,
+     -47.442434,
+     ""
+    ],
+    [
+     "Rua Arlete Pimentel Viesi",
+     -23.460458,
+     -47.439996,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14302859,
+     14309097
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Rua Arlete Pimentel Viesi",
+     -23.460429,
+     -47.439967,
+     ""
+    ],
+    [
+     "Rua Alceste Del Cistia",
+     -23.460282,
+     -47.440806,
+     ""
+    ],
+    [
+     "Rua Alceste Del Cistia",
+     -23.461164,
+     -47.441834,
+     ""
+    ],
+    [
+     "Rua Pedro Wurschig",
+     -23.462713,
+     -47.440931,
+     ""
+    ],
+    [
+     "Rua Antônio Roque Rodrigues",
+     -23.464826,
+     -47.441628,
+     ""
+    ],
+    [
+     "Avenida 15 de Agosto",
+     -23.467535,
+     -47.440849,
+     ""
+    ],
+    [
+     "Rua Fernandópolis",
+     -23.468782,
+     -47.439278,
+     ""
+    ],
+    [
+     "Rua Fernandópolis",
+     -23.469359,
+     -47.437693,
+     ""
+    ],
+    [
+     "Rua Araraquara",
+     -23.468823,
+     -47.435939,
+     ""
+    ],
+    [
+     "Rua Catanduva",
+     -23.467284,
+     -47.435011,
+     ""
+    ],
+    [
+     "Rua Catanduva",
+     -23.466389,
+     -47.433498,
+     ""
+    ],
+    [
+     "Rua Maria Terci",
+     -23.467945,
+     -47.432942,
+     ""
+    ],
+    [
+     "Rua Maria Terci",
+     -23.469058,
+     -47.433424,
+     ""
+    ],
+    [
+     "Rua Maria Terci",
+     -23.470395,
+     -47.434002,
+     ""
+    ],
+    [
+     "Rua Dracena",
+     -23.470989,
+     -47.434742,
+     ""
+    ],
+    [
+     "Rua Araraquara",
+     -23.470691,
+     -47.436833,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.472735,
+     -47.437921,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.472112,
+     -47.439657,
+     ""
+    ],
+    [
+     "Rua Ourinhos",
+     -23.471621,
+     -47.441123,
+     ""
+    ],
+    [
+     "Avenida 15 de Agosto",
+     -23.474446,
+     -47.442138,
+     ""
+    ],
+    [
+     "Avenida Dom Aguirre,4549",
+     -23.477067,
+     -47.442498,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.483505,
+     -47.440047,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.485783,
+     -47.442534,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.487022,
+     -47.444063,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.488957,
+     -47.446447,
+     ""
+    ],
+    [
+     "Rua Nicolau Alonso Filho",
+     -23.490574,
+     -47.446846,
+     ""
+    ],
+    [
+     "Rua Padre Madureira",
+     -23.4933,
+     -47.442529,
+     ""
+    ],
+    [
+     "Rua Padre Madureira",
+     -23.496177,
+     -47.441693,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498602,
+     -47.444262,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.499598,
+     -47.447214,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.500614,
+     -47.449943,
+     ""
+    ],
+    [
+     "Praça Doutor Arthur Fajardo",
+     -23.500256,
+     -47.454148,
+     ""
+    ],
+    [
+     "Ponto K - TSP",
+     -23.504609,
+     -47.45249,
+     "EST_TERMINAL_SAO_PAULO"
+    ]
+   ]
+  },
+  "OSM_57": {
+   "route_id": "OSM_57",
+   "short": "57",
+   "long": "Linha 57 : Terminal Santo Antônio - Guaíba",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto G - TSA",
+     -23.495363,
+     -47.459345,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 316",
+     -23.492721,
+     -47.458475,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 772",
+     -23.489757,
+     -47.461221,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo",
+     -23.487587,
+     -47.463305,
+     ""
+    ],
+    [
+     "241",
+     -23.486247,
+     -47.465281,
+     ""
+    ],
+    [
+     "Rua Fernandes Camacho",
+     -23.482809,
+     -47.467919,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.480656,
+     -47.468321,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.479524,
+     -47.468882,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.477071,
+     -47.47009,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.474607,
+     -47.471362,
+     ""
+    ],
+    [
+     "Rua Ministro Salgado Filho",
+     -23.472639,
+     -47.472097,
+     ""
+    ],
+    [
+     "Rua João Ribeiro Pinto",
+     -23.47064,
+     -47.473865,
+     ""
+    ],
+    [
+     "Rua Mário Fazzio",
+     -23.469058,
+     -47.473455,
+     ""
+    ],
+    [
+     "Rua José Aparecido de Souza",
+     -23.466144,
+     -47.473016,
+     ""
+    ],
+    [
+     "Rua Josefa da Imaculada Conceição Silva",
+     -23.465736,
+     -47.475134,
+     ""
+    ],
+    [
+     "Rua Nelson Herdy Barbosa",
+     -23.464418,
+     -47.47557,
+     ""
+    ],
+    [
+     "Rua Nelson Herdy Barbosa",
+     -23.463412,
+     -47.476132,
+     ""
+    ],
+    [
+     "Rua Andrelino de Souza",
+     -23.461246,
+     -47.475819,
+     ""
+    ],
+    [
+     "Rua Japonesa Rosa de Almeida",
+     -23.460181,
+     -47.474902,
+     ""
+    ],
+    [
+     "Rua Edson Harder",
+     -23.45851,
+     -47.47567,
+     ""
+    ],
+    [
+     "Rua Cristovam Garcia Molina",
+     -23.45798,
+     -47.477707,
+     ""
+    ],
+    [
+     "Rua Alcebíades Rodrigues Vaz",
+     -23.457508,
+     -47.474426,
+     ""
+    ],
+    [
+     "Rua João Borges Ribeiro",
+     -23.455411,
+     -47.467426,
+     ""
+    ],
+    [
+     "Rua Benedito Nunes",
+     -23.45569,
+     -47.466372,
+     ""
+    ],
+    [
+     "Rua Ísis de Camargo Barros Martins",
+     -23.455289,
+     -47.465171,
+     ""
+    ],
+    [
+     "Rua Luiz Rubinho Orosco",
+     -23.45354,
+     -47.464703,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14280876,
+     14298571
+    ],
+    "operator": "Consórcio Sorocaba",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Rua Luiz Rubinho Orosco",
+     -23.453594,
+     -47.464746,
+     ""
+    ],
+    [
+     "Rua Benedito Nunes",
+     -23.455982,
+     -47.465239,
+     ""
+    ],
+    [
+     "Rua Benedito Nunes",
+     -23.455616,
+     -47.466178,
+     ""
+    ],
+    [
+     "Rua José Lamberti",
+     -23.455108,
+     -47.466944,
+     ""
+    ],
+    [
+     "Rua Zoraida de Barros Nardi",
+     -23.455686,
+     -47.46958,
+     ""
+    ],
+    [
+     "Rua Zoraida de Barros Nardi",
+     -23.456387,
+     -47.471069,
+     ""
+    ],
+    [
+     "Rua Zoraida de Barros Nardi",
+     -23.457434,
+     -47.473335,
+     ""
+    ],
+    [
+     "Rua Alcebíades Rodrigues Vaz",
+     -23.457022,
+     -47.47454,
+     ""
+    ],
+    [
+     "Rua Ary Annunciato",
+     -23.457816,
+     -47.477669,
+     ""
+    ],
+    [
+     "Rua Edson Harder",
+     -23.458882,
+     -47.476872,
+     ""
+    ],
+    [
+     "Rua Edson Harder",
+     -23.458536,
+     -47.475477,
+     ""
+    ],
+    [
+     "Rua Japonesa Rosa de Almeida",
+     -23.460304,
+     -47.474958,
+     ""
+    ],
+    [
+     "Rua Andrelino de Souza",
+     -23.461268,
+     -47.476563,
+     ""
+    ],
+    [
+     "Rua Amaro Vieira da Silva",
+     -23.462082,
+     -47.477206,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.466385,
+     -47.47662,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.467231,
+     -47.476157,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.469128,
+     -47.475541,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.470781,
+     -47.475292,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.472566,
+     -47.474105,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.474449,
+     -47.472608,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.476603,
+     -47.47175,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.478874,
+     -47.470939,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.4803,
+     -47.470267,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.482726,
+     -47.469265,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.485734,
+     -47.467146,
+     ""
+    ],
+    [
+     "0243",
+     -23.486463,
+     -47.465981,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.487411,
+     -47.464572,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.4904,
+     -47.461893,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.49217,
+     -47.460242,
+     ""
+    ],
+    [
+     "Stop 30",
+     -23.498206,
+     -47.458986,
+     ""
+    ],
+    [
+     "Ponto G - TSA",
+     -23.495363,
+     -47.459345,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_79": {
+   "route_id": "OSM_79",
+   "short": "79",
+   "long": "79 - Policlínica",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto H - TSA",
+     -23.495371,
+     -47.459584,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Santa Rosália",
+     -23.493202,
+     -47.456031,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.491883,
+     -47.454728,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.489757,
+     -47.453396,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.487731,
+     -47.452046,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.48594,
+     -47.450833,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.484448,
+     -47.449714,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.483698,
+     -47.448798,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.482391,
+     -47.447134,
+     ""
+    ],
+    [
+     "Rua Aparecida",
+     -23.481923,
+     -47.444194,
+     ""
+    ],
+    [
+     "Avenida Roberto Simonsen",
+     -23.484381,
+     -47.442549,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14161478,
+     14161495
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Avenida Roberto Simonsen",
+     -23.484334,
+     -47.442595,
+     ""
+    ],
+    [
+     "Avenida Roberto Símonsen 781",
+     -23.485141,
+     -47.443983,
+     ""
+    ],
+    [
+     "Avenida Roberto Simonsen",
+     -23.486567,
+     -47.447033,
+     ""
+    ],
+    [
+     "Avenida Roberto Simonsen",
+     -23.486757,
+     -47.448787,
+     ""
+    ],
+    [
+     "Avenida Oswaldo Cruz",
+     -23.485602,
+     -47.451927,
+     ""
+    ],
+    [
+     "Rua Rodrigues Alves",
+     -23.486964,
+     -47.45324,
+     ""
+    ],
+    [
+     "Rua Mascarenhas Camelo",
+     -23.488569,
+     -47.453575,
+     ""
+    ],
+    [
+     "Rua Mascarenhas Camelo",
+     -23.490187,
+     -47.454623,
+     ""
+    ],
+    [
+     "Rua Mascarenhas Camelo,871",
+     -23.491148,
+     -47.455271,
+     ""
+    ],
+    [
+     "Rua Mascarenhas Camelo 509",
+     -23.493162,
+     -47.458014,
+     ""
+    ],
+    [
+     "Stop 11",
+     -23.498206,
+     -47.458986,
+     ""
+    ],
+    [
+     "Ponto H - TSA",
+     -23.495371,
+     -47.459584,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_101": {
+   "route_id": "OSM_101",
+   "short": "101",
+   "long": "101 - Rodoviária / Praça 9 de Julho",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto Q - TSA",
+     -23.495664,
+     -47.460066,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Avenida Doutor Afonso Vergueiro",
+     -23.495705,
+     -47.463797,
+     ""
+    ],
+    [
+     "Avenida Doutor Afonso Vergueiro",
+     -23.497016,
+     -47.467227,
+     ""
+    ],
+    [
+     "Avenida Doutor Eugênio Salerno",
+     -23.499532,
+     -47.468819,
+     ""
+    ],
+    [
+     "Avenida Doutor Eugênio Salerno",
+     -23.501981,
+     -47.468433,
+     ""
+    ],
+    [
+     "Avenida Moreira César",
+     -23.503918,
+     -47.46624,
+     ""
+    ],
+    [
+     "Avenida Moreira César",
+     -23.505079,
+     -47.463787,
+     ""
+    ],
+    [
+     "Av. Pres. Juscelino Kubitschek de Oliveira, 1175",
+     -23.505873,
+     -47.460825,
+     ""
+    ],
+    [
+     "Av. Pres. Juscelino Kubitschek de Oliveira, 585",
+     -23.506689,
+     -47.45758,
+     "EST_TERMINAL_RODOVIARIO_SOROCABA"
+    ],
+    [
+     "Av. Presidente Juscelino Kubitschek de Oliveira,, 215",
+     -23.506997,
+     -47.453843,
+     ""
+    ],
+    [
+     "Ponto B - TSP",
+     -23.504926,
+     -47.452682,
+     "EST_TERMINAL_SAO_PAULO"
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13920120,
+     14298753
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Ponto B - TSP",
+     -23.504926,
+     -47.452682,
+     "EST_TERMINAL_SAO_PAULO"
+    ],
+    [
+     "Avenida Presidente Juscelino Kubitscheck de Oliveira, 480",
+     -23.506079,
+     -47.455845,
+     "EST_TERMINAL_RODOVIARIO_SOROCABA"
+    ],
+    [
+     "Av. Pres. Juscelino Kubitscheck de Oliveira, 830",
+     -23.505921,
+     -47.460137,
+     ""
+    ],
+    [
+     "Av. Pres. Juscelino Kubitscheck de Oliveira, 1050-1094",
+     -23.504791,
+     -47.461979,
+     ""
+    ],
+    [
+     "Avenida Moreira Cesár, 282",
+     -23.504103,
+     -47.465536,
+     ""
+    ],
+    [
+     "Avenida Doutor Eugênio Salerno",
+     -23.50057,
+     -47.468423,
+     ""
+    ],
+    [
+     "Avenida Doutor Afonso Vergueiro",
+     -23.497446,
+     -47.467761,
+     ""
+    ],
+    [
+     "Avenida Doutor Afonso Vergueiro,1169",
+     -23.495839,
+     -47.463525,
+     ""
+    ],
+    [
+     "Ponto Q - TSA",
+     -23.495664,
+     -47.460066,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_102": {
+   "route_id": "OSM_102",
+   "short": "102",
+   "long": "102 - Circular / Via Centro",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto Q - TSA",
+     -23.495664,
+     -47.460066,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.49736,
+     -47.455957,
+     ""
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.49773,
+     -47.457844,
+     ""
+    ],
+    [
+     "Rua Sete de Setembro",
+     -23.498678,
+     -47.459834,
+     ""
+    ],
+    [
+     "Rua Professor Toledo",
+     -23.501263,
+     -47.462895,
+     ""
+    ],
+    [
+     "Rua Professor Toledo",
+     -23.50261,
+     -47.461987,
+     ""
+    ],
+    [
+     "Rua Cesário Mota",
+     -23.502441,
+     -47.46127,
+     ""
+    ],
+    [
+     "Rua de São Bento",
+     -23.501584,
+     -47.45903,
+     ""
+    ],
+    [
+     "Rua Quinze de Novembro",
+     -23.500436,
+     -47.454343,
+     ""
+    ],
+    [
+     "Ponto B - TSP",
+     -23.504926,
+     -47.452682,
+     "EST_TERMINAL_SAO_PAULO"
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14477824,
+     14477831
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Ponto B - TSP",
+     -23.504926,
+     -47.452682,
+     "EST_TERMINAL_SAO_PAULO"
+    ],
+    [
+     "Rua Souza Pereira",
+     -23.500555,
+     -47.453292,
+     ""
+    ],
+    [
+     "Rua Souza Pereira",
+     -23.498377,
+     -47.454236,
+     ""
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.49736,
+     -47.455957,
+     ""
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.49773,
+     -47.457844,
+     ""
+    ],
+    [
+     "Rua Sete de Setembro",
+     -23.498678,
+     -47.459834,
+     ""
+    ],
+    [
+     "Rua Miranda Azevedo,250",
+     -23.499343,
+     -47.461817,
+     ""
+    ],
+    [
+     "Avenida Doutor Afonso Vergueiro,1169",
+     -23.495839,
+     -47.463525,
+     ""
+    ],
+    [
+     "Ponto Q - TSA",
+     -23.495664,
+     -47.460066,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_103": {
+   "route_id": "OSM_103",
+   "short": "103",
+   "long": "103 - Rodoviária / Centro Hospitalar",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto B - TSP",
+     -23.504926,
+     -47.452682,
+     "EST_TERMINAL_SAO_PAULO"
+    ],
+    [
+     "Rua Souza Pereira",
+     -23.500568,
+     -47.453346,
+     ""
+    ],
+    [
+     "Rua Souza Pereira",
+     -23.498394,
+     -47.4543,
+     ""
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.497397,
+     -47.455953,
+     ""
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.497748,
+     -47.457822,
+     ""
+    ],
+    [
+     "Rua Sete de Setembro",
+     -23.498678,
+     -47.459834,
+     ""
+    ],
+    [
+     "Rua Miranda Azevedo,250",
+     -23.499343,
+     -47.461817,
+     ""
+    ],
+    [
+     "Avenida Doutor Afonso Vergueiro",
+     -23.49578,
+     -47.463554,
+     ""
+    ],
+    [
+     "Ponto Q - TSA",
+     -23.495664,
+     -47.460066,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14311604,
+     14477703
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Ponto Q - TSA",
+     -23.495664,
+     -47.460066,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.49736,
+     -47.455957,
+     ""
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.49773,
+     -47.457844,
+     ""
+    ],
+    [
+     "Rua Sete de Setembro",
+     -23.498678,
+     -47.459834,
+     ""
+    ],
+    [
+     "Rua Padre Luiz,101",
+     -23.50057,
+     -47.459212,
+     ""
+    ],
+    [
+     "Rua Santa Clara",
+     -23.502884,
+     -47.457836,
+     ""
+    ],
+    [
+     "Rua Santa Clara 400",
+     -23.504555,
+     -47.456768,
+     ""
+    ],
+    [
+     "Avenida Comendador Pereira Inácio, 190",
+     -23.508229,
+     -47.455808,
+     ""
+    ],
+    [
+     "Rua Cláudio Manoel da Costa",
+     -23.509038,
+     -47.457294,
+     ""
+    ],
+    [
+     "Av. Pres. Juscelino Kubitschek de Oliveira, 585",
+     -23.506689,
+     -47.45758,
+     "EST_TERMINAL_RODOVIARIO_SOROCABA"
+    ],
+    [
+     "Av. Presidente Juscelino Kubitschek de Oliveira,, 215",
+     -23.506997,
+     -47.453843,
+     ""
+    ],
+    [
+     "Ponto B - TSP",
+     -23.504926,
+     -47.452682,
+     "EST_TERMINAL_SAO_PAULO"
+    ]
+   ]
+  },
+  "OSM_306": {
+   "route_id": "OSM_306",
+   "short": "306",
+   "long": "306 - Interbairros 6 (VI) - A.T. Nogueira Padilha",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Rua Padre José Maurício",
+     -23.482917,
+     -47.470687,
+     ""
+    ],
+    [
+     "Rua Atanazio Soares",
+     -23.482726,
+     -47.469265,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.485734,
+     -47.467146,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.484334,
+     -47.465969,
+     ""
+    ],
+    [
+     "Rua Hortêncio Soares Martins",
+     -23.483251,
+     -47.461463,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.482684,
+     -47.46058,
+     ""
+    ],
+    [
+     "Rua Júlio Ribeiro",
+     -23.481796,
+     -47.458592,
+     ""
+    ],
+    [
+     "Rua Júlio Ribeiro",
+     -23.483619,
+     -47.456138,
+     ""
+    ],
+    [
+     "Rua Júlio Ribeiro",
+     -23.484748,
+     -47.454621,
+     ""
+    ],
+    [
+     "Rua Júlio Ribeiro",
+     -23.486106,
+     -47.452811,
+     ""
+    ],
+    [
+     "Avenida Roberto Simonsen",
+     -23.486682,
+     -47.446684,
+     ""
+    ],
+    [
+     "Avenida Roberto Simonsen",
+     -23.485133,
+     -47.443626,
+     ""
+    ],
+    [
+     "Avenida Roberto Simonsen",
+     -23.483907,
+     -47.441982,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.483505,
+     -47.440047,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.485783,
+     -47.442534,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.487022,
+     -47.444063,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.488957,
+     -47.446447,
+     ""
+    ],
+    [
+     "Rua Nicolau Alonso Filho",
+     -23.490574,
+     -47.446846,
+     ""
+    ],
+    [
+     "Rua Padre Madureira",
+     -23.4933,
+     -47.442529,
+     ""
+    ],
+    [
+     "Rua Padre Madureira",
+     -23.496177,
+     -47.441693,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498602,
+     -47.444262,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.499598,
+     -47.447214,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.500614,
+     -47.449943,
+     ""
+    ],
+    [
+     "Avenida Coronel Nogueira Padilha",
+     -23.503563,
+     -47.448482,
+     ""
+    ],
+    [
+     "Avenida Coronel Nogueira Padilha",
+     -23.505426,
+     -47.445073,
+     ""
+    ],
+    [
+     "Avenida Coronel Nogueira Padilha",
+     -23.506913,
+     -47.442315,
+     ""
+    ],
+    [
+     "Avenida Coronel Nogueira Padilha",
+     -23.508385,
+     -47.439961,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14392136,
+     14392218
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Área de Transferência Nogueira Padilha - Sentido Centro",
+     -23.508172,
+     -47.440061,
+     ""
+    ],
+    [
+     "Avenida Coronel Nogueira Padilha",
+     -23.506639,
+     -47.442644,
+     ""
+    ],
+    [
+     "Avenida Coronel Nogueira Padilha",
+     -23.505029,
+     -47.445577,
+     ""
+    ],
+    [
+     "Avenida Coronel Nogueira Padilha",
+     -23.504153,
+     -47.447202,
+     ""
+    ],
+    [
+     "Rua Doutor Ruy Barbosa",
+     -23.502341,
+     -47.448553,
+     ""
+    ],
+    [
+     "Rua Constantino Senger",
+     -23.501236,
+     -47.447639,
+     ""
+    ],
+    [
+     "Stop 7",
+     -23.499569,
+     -47.446736,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498683,
+     -47.443949,
+     ""
+    ],
+    [
+     "Rua Américo Brasiliense",
+     -23.49735,
+     -47.440281,
+     ""
+    ],
+    [
+     "Rua João Ferreira da Silva",
+     -23.496864,
+     -47.441653,
+     ""
+    ],
+    [
+     "Rua Cruz e Souza",
+     -23.495609,
+     -47.44104,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.493623,
+     -47.441816,
+     ""
+    ],
+    [
+     "Rua Maria Cinto de Biaggi",
+     -23.488871,
+     -47.443347,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.486998,
+     -47.443772,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.485377,
+     -47.441783,
+     ""
+    ],
+    [
+     "Avenida Pereira da Silva",
+     -23.484668,
+     -47.441016,
+     ""
+    ],
+    [
+     "Rua Ana Monteiro de Carvalho",
+     -23.483098,
+     -47.440126,
+     ""
+    ],
+    [
+     "Avenida Roberto Simonsen",
+     -23.484334,
+     -47.442595,
+     ""
+    ],
+    [
+     "Avenida Roberto Símonsen 781",
+     -23.485141,
+     -47.443983,
+     ""
+    ],
+    [
+     "Avenida Roberto Simonsen",
+     -23.486567,
+     -47.447033,
+     ""
+    ],
+    [
+     "Avenida Roberto Simonsen",
+     -23.486757,
+     -47.448787,
+     ""
+    ],
+    [
+     "Avenida Oswaldo Cruz",
+     -23.485602,
+     -47.451927,
+     ""
+    ],
+    [
+     "Avenida Oswaldo Cruz",
+     -23.483595,
+     -47.454588,
+     ""
+    ],
+    [
+     "Avenida Oswaldo Cruz",
+     -23.482329,
+     -47.456349,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.481298,
+     -47.458932,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.481798,
+     -47.460291,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.483056,
+     -47.463206,
+     ""
+    ],
+    [
+     "Avenida José Joaquim de Lacerda",
+     -23.484055,
+     -47.465903,
+     ""
+    ],
+    [
+     "Rua Padre José Maurício",
+     -23.482903,
+     -47.470692,
+     ""
+    ]
+   ]
+  },
+  "OSM_T31": {
+   "route_id": "OSM_T31",
+   "short": "T31",
+   "long": "T31 - Expresso Cajurú",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Stop 1",
+     -23.499569,
+     -47.446736,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498683,
+     -47.443949,
+     ""
+    ],
+    [
+     "Rua Américo Brasiliense",
+     -23.49735,
+     -47.440281,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.496683,
+     -47.439707,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49474,
+     -47.437366,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.492738,
+     -47.434853,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489668,
+     -47.427922,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489003,
+     -47.424949,
+     ""
+    ],
+    [
+     "Rodovia Waldomiro Corrêa de Camargo",
+     -23.486234,
+     -47.427662,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.484773,
+     -47.428168,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.477384,
+     -47.42182,
+     ""
+    ],
+    [
+     "Avenida Independência",
+     -23.4596,
+     -47.421266,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14183809,
+     14183840
+    ],
+    "operator": "",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Avenida Independência",
+     -23.459932,
+     -47.421736,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.477741,
+     -47.422018,
+     ""
+    ],
+    [
+     "Rodovia Waldomiro Corrêa de Camargo",
+     -23.487084,
+     -47.427257,
+     ""
+    ],
+    [
+     "Parada Supermercado Confiança",
+     -23.489584,
+     -47.428784,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49033,
+     -47.430972,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49231,
+     -47.434769,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.493577,
+     -47.436231,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.495713,
+     -47.438901,
+     ""
+    ],
+    [
+     "Parada Amiga",
+     -23.497396,
+     -47.440749,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.499598,
+     -47.447214,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.500614,
+     -47.449943,
+     ""
+    ],
+    [
+     "Praça Doutor Arthur Fajardo",
+     -23.500256,
+     -47.454148,
+     ""
+    ],
+    [
+     "Ponto G - TSP",
+     -23.504618,
+     -47.452611,
+     "EST_TERMINAL_SAO_PAULO"
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498602,
+     -47.444262,
+     ""
+    ]
+   ]
+  },
+  "OSM_T48": {
+   "route_id": "OSM_T48",
+   "short": "T48",
+   "long": "T48 Expresso Aparecidinha",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Ponto A (T48 Aparecidinha) - TSA",
+     -23.495963,
+     -47.458866,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Avenida Dom Aguirre",
+     -23.490438,
+     -47.441198,
+     ""
+    ],
+    [
+     "Avenida Dom Aguirre",
+     -23.487058,
+     -47.438237,
+     ""
+    ],
+    [
+     "Avenida Dom Aguirre",
+     -23.482934,
+     -47.438721,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.475989,
+     -47.435534,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.472894,
+     -47.429793,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.469662,
+     -47.42397,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.466357,
+     -47.418189,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.460714,
+     -47.409132,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.458298,
+     -47.405661,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.455902,
+     -47.402251,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.453555,
+     -47.398909,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.451083,
+     -47.395487,
+     ""
+    ],
+    [
+     "Rua Joaquim Machado",
+     -23.441404,
+     -47.377745,
+     ""
+    ],
+    [
+     "Rua do Terço",
+     -23.442609,
+     -47.375711,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13082100,
+     13082101
+    ],
+    "operator": "",
+    "headway": "OSM"
+   },
+   "stops_back": [
+    [
+     "Miniterminal Aparecidinha",
+     -23.442553,
+     -47.375712,
+     ""
+    ],
+    [
+     "Rua Joaquim Machado",
+     -23.441524,
+     -47.377413,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.45074,
+     -47.395807,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.453315,
+     -47.399417,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.454946,
+     -47.401694,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.457828,
+     -47.405852,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.460323,
+     -47.409451,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.465052,
+     -47.416971,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.468936,
+     -47.423672,
+     ""
+    ],
+    [
+     "Stop 10",
+     -23.472513,
+     -47.430145,
+     ""
+    ],
+    [
+     "Rodovia Senador José Ermírio de Moraes",
+     -23.474941,
+     -47.434381,
+     ""
+    ],
+    [
+     "Avenida Dom Aguirre",
+     -23.483884,
+     -47.438806,
+     ""
+    ],
+    [
+     "Avenida Dom Aguirre",
+     -23.488692,
+     -47.439224,
+     ""
+    ],
+    [
+     "Avenida Dom Aguirre",
+     -23.490948,
+     -47.442776,
+     ""
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.49736,
+     -47.455957,
+     ""
+    ],
+    [
+     "Rua Doutor Álvaro Soares",
+     -23.49773,
+     -47.457844,
+     ""
+    ],
+    [
+     "Ponto A (T48 Aparecidinha) - TSA",
+     -23.495963,
+     -47.458866,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ]
+  },
+  "OSM_T53": {
+   "route_id": "OSM_T53",
+   "short": "T53",
+   "long": "T53 - Expresso Éden",
+   "route_type": 3,
+   "headway_s": 1200,
+   "speed_kmh": 18,
+   "dwell_s": 25,
+   "capacity": 80,
+   "stops": [
+    [
+     "Stop 1",
+     -23.499569,
+     -47.446736,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.498683,
+     -47.443949,
+     ""
+    ],
+    [
+     "Rua Américo Brasiliense",
+     -23.49735,
+     -47.440281,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.496683,
+     -47.439707,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.49474,
+     -47.437366,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.492738,
+     -47.434853,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489668,
+     -47.427922,
+     ""
+    ],
+    [
+     "Avenida São Paulo",
+     -23.489003,
+     -47.424949,
+     ""
+    ],
+    [
+     "Rodovia Waldomiro Corrêa de Camargo",
+     -23.486234,
+     -47.427662,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.484773,
+     -47.428168,
+     ""
+    ],
+    [
+     "Avenida Engenheiro Carlos Reinaldo Mendes",
+     -23.477384,
+     -47.42182,
+     ""
+    ],
+    [
+     "Avenida Independência",
+     -23.4596,
+     -47.421266,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     14184153,
+     14184182
+    ],
+    "operator": "Urbes",
+    "headway": "assumed"
+   }
+  },
+  "OSM_A131": {
+   "route_id": "OSM_A131",
+   "short": "A131",
+   "long": "A131 -Estação Itavuvu - Casa Branca",
+   "route_type": 3,
+   "headway_s": 600,
+   "speed_kmh": 22,
+   "dwell_s": 25,
+   "capacity": 160,
+   "stops": [
+    [
+     "Avenida Itavuvu",
+     -23.455401,
+     -47.482492,
+     ""
+    ],
+    [
+     "Rua Babi Berlim",
+     -23.456511,
+     -47.476802,
+     ""
+    ],
+    [
+     "Rua Menaldo Costa da Silva Rodrigues",
+     -23.455693,
+     -47.474902,
+     ""
+    ],
+    [
+     "Rua Menaldo Costa da Silva Rodrigues",
+     -23.454666,
+     -47.472634,
+     ""
+    ],
+    [
+     "Rua Menaldo Costa da Silva Rodrigues",
+     -23.453757,
+     -47.470701,
+     ""
+    ],
+    [
+     "Rua Oliver Roberto Bazini",
+     -23.452447,
+     -47.470723,
+     ""
+    ],
+    [
+     "Rua Michel Chicri Maluf",
+     -23.45204,
+     -47.472144,
+     ""
+    ],
+    [
+     "Rua Manoel Peres",
+     -23.453134,
+     -47.473792,
+     ""
+    ],
+    [
+     "Rua Bernardino Albiero",
+     -23.454437,
+     -47.475752,
+     ""
+    ],
+    [
+     "Rua Professora Rosemary de Mello Moreira Pereira",
+     -23.453716,
+     -47.477007,
+     ""
+    ],
+    [
+     "Rua Professora Rosemary de Mello Moreira Pereira",
+     -23.453444,
+     -47.479406,
+     ""
+    ],
+    [
+     "Rua Diogo Gomes Filho",
+     -23.451794,
+     -47.478415,
+     ""
+    ],
+    [
+     "Rua Washington Pensa",
+     -23.449906,
+     -47.478791,
+     ""
+    ],
+    [
+     "Rua Washington Pensa",
+     -23.450149,
+     -47.47591,
+     ""
+    ],
+    [
+     "Rua Washington Pensa",
+     -23.450341,
+     -47.473725,
+     ""
+    ],
+    [
+     "Rua João Deleto Lobo",
+     -23.450247,
+     -47.472095,
+     ""
+    ],
+    [
+     "Rua Bonifácio Peres Rodolfo",
+     -23.448779,
+     -47.472293,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     13920160,
+     14298998
+    ],
+    "operator": "BRT Sorocaba",
+    "headway": "assumed"
+   },
+   "stops_back": [
+    [
+     "Rua Bonifácio Peres Rodolfo",
+     -23.448765,
+     -47.472293,
+     ""
+    ],
+    [
+     "Rua Dolores Rios Moncayo",
+     -23.449552,
+     -47.472751,
+     ""
+    ],
+    [
+     "Rua Washington Pensa",
+     -23.450227,
+     -47.473988,
+     ""
+    ],
+    [
+     "Rua Washington Pensa",
+     -23.450025,
+     -47.476353,
+     ""
+    ],
+    [
+     "Rua Washington Pensa",
+     -23.44985,
+     -47.478447,
+     ""
+    ],
+    [
+     "Rua Professora Rosemary de Mello Moreira Pereira",
+     -23.453523,
+     -47.479491,
+     ""
+    ],
+    [
+     "Rua Professora Rosemary de Mello Moreira Pereira",
+     -23.453814,
+     -47.476886,
+     ""
+    ],
+    [
+     "Rua Bernardino Albiero",
+     -23.454551,
+     -47.475714,
+     ""
+    ],
+    [
+     "Rua Manoel Peres",
+     -23.4532,
+     -47.473702,
+     ""
+    ],
+    [
+     "Rua Michel Chicri Maluf",
+     -23.452141,
+     -47.472266,
+     ""
+    ],
+    [
+     "Rua Michel Chicri Maluf",
+     -23.452244,
+     -47.471264,
+     ""
+    ],
+    [
+     "Rua Oliver Roberto Bazini",
+     -23.452775,
+     -47.470704,
+     ""
+    ],
+    [
+     "Rua Menaldo Costa da Silva Rodrigues",
+     -23.45368,
+     -47.47075,
+     ""
+    ],
+    [
+     "Rua Menaldo Costa da Silva Rodrigues",
+     -23.454678,
+     -47.472913,
+     ""
+    ],
+    [
+     "Rua Menaldo Costa da Silva Rodrigues",
+     -23.455653,
+     -47.475052,
+     ""
+    ],
+    [
+     "Rua Babi Berlim",
+     -23.456524,
+     -47.476962,
+     ""
+    ],
+    [
+     "Rua Maria Moron Malzoni",
+     -23.457228,
+     -47.47954,
+     ""
+    ],
+    [
+     "Itavuvu",
+     -23.455393,
+     -47.482475,
+     ""
+    ]
+   ]
+  },
+  "OSM_D200": {
+   "route_id": "OSM_D200",
+   "short": "D200",
+   "long": "D200 Campolim Norte / Sul",
+   "route_type": 3,
+   "headway_s": 720,
+   "speed_kmh": 22,
+   "dwell_s": 25,
+   "capacity": 160,
+   "stops": [
+    [
+     "Avenida Antonio Silva Saladino",
+     -23.43661,
+     -47.473526,
+     "EST_TERMINAL_VITORIA_REGIA"
+    ],
+    [
+     "BRT - Paineiras B/C",
+     -23.442566,
+     -47.478653,
+     ""
+    ],
+    [
+     "BRT - São Camilo B/C",
+     -23.447306,
+     -47.479599,
+     "EST_SAO_CAMILO"
+    ],
+    [
+     "BRT - Santa Cecília B/C",
+     -23.451705,
+     -47.482472,
+     ""
+    ],
+    [
+     "BRT - Itavuvu B/C",
+     -23.455282,
+     -47.482539,
+     ""
+    ],
+    [
+     "BRT - Jd Atílio Silvano B/C",
+     -23.459187,
+     -47.480121,
+     "EST_JD_ATILIO_SILVANO"
+    ],
+    [
+     "BRT - Jardim Maria Antônia Prado B/C",
+     -23.463483,
+     -47.479466,
+     ""
+    ],
+    [
+     "BRT - Los Angeles B/C",
+     -23.466028,
+     -47.478798,
+     "EST_LOS_ANGELES"
+    ],
+    [
+     "BRT - Jd Paraná B/C",
+     -23.469751,
+     -47.477648,
+     "EST_JD_PARANA"
+    ],
+    [
+     "BRT - Vila Carol B/C",
+     -23.473363,
+     -47.476487,
+     "EST_ESTACAO_VILA_CAROL_ARANY_MARCHETTI"
+    ],
+    [
+     "BRT - E.E. Lauro Sanches B/C",
+     -23.477063,
+     -47.475163,
+     "EST_ESTACAO_ESCOLA_LAURO_SANCHES_MARCOS_ROBERTO_BONINI"
+    ],
+    [
+     "BRT - C.E. Dr. Pitico B/C",
+     -23.479672,
+     -47.47424,
+     "EST_C_E_DR_PITICO"
+    ],
+    [
+     "Rua Castanho Taques",
+     -23.484281,
+     -47.474191,
+     ""
+    ],
+    [
+     "Rua Castanho Taques",
+     -23.486805,
+     -47.475704,
+     ""
+    ],
+    [
+     "Avenida Adhemar de Barros",
+     -23.490277,
+     -47.472452,
+     ""
+    ],
+    [
+     "Avenida General Osório",
+     -23.492221,
+     -47.469545,
+     ""
+    ],
+    [
+     "Avenida Doutor Afonso Vergueiro",
+     -23.49578,
+     -47.463554,
+     ""
+    ],
+    [
+     "Rua Padre Luiz",
+     -23.500539,
+     -47.459173,
+     ""
+    ],
+    [
+     "Rua Santa Clara",
+     -23.50286,
+     -47.457774,
+     ""
+    ],
+    [
+     "Rua Santa Clara",
+     -23.504513,
+     -47.456752,
+     ""
+    ],
+    [
+     "Avenida Comendador Pereira Inácio",
+     -23.508221,
+     -47.455763,
+     ""
+    ],
+    [
+     "Hospital Leonor Mendes de Barros",
+     -23.510768,
+     -47.456099,
+     ""
+    ],
+    [
+     "Avenida Washington Luiz",
+     -23.512139,
+     -47.457651,
+     ""
+    ],
+    [
+     "Avenida Washington Luiz",
+     -23.513177,
+     -47.460645,
+     ""
+    ],
+    [
+     "Avenida Washington Luiz",
+     -23.514353,
+     -47.462943,
+     ""
+    ],
+    [
+     "Avenida Antônio Carlos Cômitre",
+     -23.517691,
+     -47.464864,
+     ""
+    ],
+    [
+     "Avenida Antônio Carlos Cômitre",
+     -23.52111,
+     -47.464905,
+     ""
+    ],
+    [
+     "Avenida Antônio Carlos Cômitre",
+     -23.525661,
+     -47.465164,
+     ""
+    ],
+    [
+     "Avenida Antônio Carlos Cômitre",
+     -23.527607,
+     -47.465399,
+     ""
+    ],
+    [
+     "Avenida Professora Izoraida Marques Peres",
+     -23.532123,
+     -47.465415,
+     ""
+    ],
+    [
+     "Shopping Iguatemi Esplanada",
+     -23.534401,
+     -47.465389,
+     ""
+    ],
+    [
+     "Avenida Professora Izoraida Marques Peres",
+     -23.537122,
+     -47.465925,
+     ""
+    ],
+    [
+     "Avenida Gisele Constantino",
+     -23.540265,
+     -47.466565,
+     ""
+    ],
+    [
+     "Avenida Gisele Constantino",
+     -23.542902,
+     -47.466631,
+     ""
+    ],
+    [
+     "Secretaria da Fazenda",
+     -23.546835,
+     -47.47094,
+     ""
+    ],
+    [
+     "Campolim",
+     -23.548387,
+     -47.475571,
+     ""
+    ]
+   ],
+   "osm": {
+    "relations": [
+     12300728,
+     12300729
+    ],
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "headway": "OSM"
+   }
+  },
+  "OSM_T140": {
+   "route_id": "OSM_T140",
+   "short": "T140",
+   "long": "T140 Terminal Santo Antônio",
+   "route_type": 3,
+   "headway_s": 600,
+   "speed_kmh": 22,
+   "dwell_s": 25,
+   "capacity": 160,
+   "stops": [
+    [
+     "Avenida Antonio Silva Saladino",
+     -23.436586,
+     -47.473084,
+     "EST_TERMINAL_VITORIA_REGIA"
+    ],
+    [
+     "BRT - Paineiras B/C",
+     -23.442566,
+     -47.478653,
+     ""
+    ],
+    [
+     "BRT - São Camilo B/C",
+     -23.447306,
+     -47.479599,
+     "EST_SAO_CAMILO"
+    ],
+    [
+     "BRT - Santa Cecília B/C",
+     -23.451705,
+     -47.482472,
+     ""
+    ],
+    [
+     "BRT - Itavuvu B/C",
+     -23.455282,
+     -47.482539,
+     ""
+    ],
+    [
+     "BRT - Jd Atílio Silvano B/C",
+     -23.459187,
+     -47.480121,
+     "EST_JD_ATILIO_SILVANO"
+    ],
+    [
+     "BRT - Jardim Maria Antônia Prado B/C",
+     -23.463483,
+     -47.479466,
+     ""
+    ],
+    [
+     "BRT - Los Angeles B/C",
+     -23.466028,
+     -47.478798,
+     "EST_LOS_ANGELES"
+    ],
+    [
+     "BRT - Jd Paraná B/C",
+     -23.469751,
+     -47.477648,
+     "EST_JD_PARANA"
+    ],
+    [
+     "BRT - Vila Carol B/C",
+     -23.473363,
+     -47.476487,
+     "EST_ESTACAO_VILA_CAROL_ARANY_MARCHETTI"
+    ],
+    [
+     "BRT - E.E. Lauro Sanches B/C",
+     -23.477063,
+     -47.475163,
+     "EST_ESTACAO_ESCOLA_LAURO_SANCHES_MARCOS_ROBERTO_BONINI"
+    ],
+    [
+     "BRT - C.E. Dr. Pitico B/C",
+     -23.479672,
+     -47.47424,
+     "EST_C_E_DR_PITICO"
+    ],
+    [
+     "BRT - UPH Zona Norte",
+     -23.48394,
+     -47.472157,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.485734,
+     -47.467146,
+     ""
+    ],
+    [
+     "0243",
+     -23.486463,
+     -47.465981,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.487411,
+     -47.464572,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.4904,
+     -47.461893,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.49217,
+     -47.460242,
+     ""
+    ],
+    [
+     "Stop 19",
+     -23.498206,
+     -47.458986,
+     ""
+    ],
+    [
+     "Ponto O - TSA",
+     -23.495383,
+     -47.459852,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ],
+   "osm": {
+    "relations": [
+     11581779,
+     11581782
+    ],
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "headway": "OSM"
+   }
+  },
+  "OSM_T150": {
+   "route_id": "OSM_T150",
+   "short": "T150",
+   "long": "T150 Terminal Santo Antônio",
+   "route_type": 3,
+   "headway_s": 600,
+   "speed_kmh": 22,
+   "dwell_s": 25,
+   "capacity": 160,
+   "stops": [
+    [
+     "Plataforma 2 Ponto E",
+     -23.452753,
+     -47.505205,
+     ""
+    ],
+    [
+     "BRT - Jardim Betânia",
+     -23.456856,
+     -47.50387,
+     ""
+    ],
+    [
+     "BRT - Novo Horizonte",
+     -23.462527,
+     -47.49859,
+     ""
+    ],
+    [
+     "BRT - Nova Sorocaba",
+     -23.472491,
+     -47.489371,
+     ""
+    ],
+    [
+     "BRT - Jardim Planalto",
+     -23.475195,
+     -47.486861,
+     ""
+    ],
+    [
+     "BRT - Jardim Aeroporto",
+     -23.478504,
+     -47.483861,
+     ""
+    ],
+    [
+     "BRT - Vila Angélica",
+     -23.481562,
+     -47.478289,
+     ""
+    ],
+    [
+     "BRT - Vila Guilherme",
+     -23.482814,
+     -47.475062,
+     ""
+    ],
+    [
+     "BRT - UPH Zona Norte",
+     -23.48394,
+     -47.472157,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.485734,
+     -47.467146,
+     ""
+    ],
+    [
+     "0243",
+     -23.486463,
+     -47.465981,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.487411,
+     -47.464572,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.4904,
+     -47.461893,
+     ""
+    ],
+    [
+     "Rua Comendador Oetterer",
+     -23.49217,
+     -47.460242,
+     ""
+    ],
+    [
+     "Stop 15",
+     -23.498206,
+     -47.458986,
+     ""
+    ],
+    [
+     "Ponto O - TSA",
+     -23.495383,
+     -47.459852,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ]
+   ],
+   "osm": {
+    "relations": [
+     12639003,
+     12639015
+    ],
+    "operator": "BRT Sorocaba (Mobibrasil)",
+    "headway": "OSM"
+   },
+   "stops_back": [
+    [
+     "Ponto O - TSA",
+     -23.495383,
+     -47.459852,
+     "EST_TERMINAL_URBANO_SANTO_ANTONIO"
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 316",
+     -23.492721,
+     -47.458475,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo 772",
+     -23.489757,
+     -47.461221,
+     ""
+    ],
+    [
+     "Rua Comendador Hermelino Matarazzo",
+     -23.487587,
+     -47.463305,
+     ""
+    ],
+    [
+     "241",
+     -23.486247,
+     -47.465281,
+     ""
+    ],
+    [
+     "Avenida Ipanema",
+     -23.484666,
+     -47.468252,
+     ""
+    ],
+    [
+     "BRT - UPH Zona Norte",
+     -23.483815,
+     -47.472103,
+     ""
+    ],
+    [
+     "BRT - Vila Guilherme",
+     -23.482688,
+     -47.475018,
+     ""
+    ],
+    [
+     "BRT - Vila Angélica",
+     -23.481447,
+     -47.478223,
+     ""
+    ],
+    [
+     "BRT - Jardim Aeroporto",
+     -23.478529,
+     -47.483686,
+     ""
+    ],
+    [
+     "BRT - Jardim Planalto",
+     -23.475147,
+     -47.486785,
+     ""
+    ],
+    [
+     "BRT - Nova Sorocaba",
+     -23.472432,
+     -47.489272,
+     ""
+    ],
+    [
+     "BRT - Ipanema",
+     -23.467348,
+     -47.494063,
+     ""
+    ],
+    [
+     "BRT - Novo Horizonte",
+     -23.462458,
+     -47.498476,
+     ""
+    ],
+    [
+     "BRT - Jardim Betânia",
+     -23.456777,
+     -47.50374,
+     ""
+    ],
+    [
+     "Plataforma 2 Ponto G",
+     -23.452321,
+     -47.504742,
+     ""
+    ]
+   ]
+  }
+ },
+ "colors": {
+  "2": "#2a78d6",
+  "5": "#eb6834",
+  "14": "#1baf7a",
+  "19": "#eda100",
+  "20": "#e87ba4",
+  "24": "#4a3aa7",
+  "28": "#008300",
+  "30": "#e34948",
+  "36": "#7f5539",
+  "45": "#00838f",
+  "50": "#6d4c41",
+  "52": "#9e9d24",
+  "52b": "#2a78d6",
+  "52c": "#eb6834",
+  "54": "#1baf7a",
+  "56": "#eda100",
+  "57": "#e87ba4",
+  "79": "#4a3aa7",
+  "101": "#008300",
+  "102": "#e34948",
+  "103": "#7f5539",
+  "306": "#00838f",
+  "T31": "#6d4c41",
+  "T48": "#9e9d24",
+  "T53": "#2a78d6",
+  "A131": "#d62728",
+  "D200": "#d62728",
+  "T140": "#d62728",
+  "T150": "#d62728"
+ },
+ "report": [
+  "skipped 6224 (São Roque (Centro)): no stops mapped",
+  "skipped 6114 (Itapetininga - Sorocaba (via Alambari)): no stops mapped",
+  "skipped 6334 (6334 Sorocaba →São Miguel Arcanjo (Terminal Rodoviário Bento Franca)): 46% of its stops in the city - a regional route",
+  "skipped 6334 (6334 São Miguel Arcanjo → Sorocaba (Terminal Rodoviário de Sorocaba)): 34% of its stops in the city - a regional route",
+  "skipped 3110 (3110 - Green Valley via Shopping Iguatemi Esplanada): 25% of its stops in the city - a regional route",
+  "skipped 58/2 (Jd. Imperatriz / Alpes): no stops mapped",
+  "skipped 72 (Bairro dos Carvalhos): no stops mapped",
+  "5: 5 stop(s) cut off the outward",
+  "24: 2 stop(s) cut off the outward",
+  "28: 12 stop(s) cut off the return; its directions do not match: runs back by its stops reversed",
+  "30: 2 stop(s) cut off the outward",
+  "36: 4 stop(s) cut off the outward; its directions do not match: runs back by its stops reversed",
+  "45: 6 stop(s) cut off the outward",
+  "50: 1 stop(s) cut off the outward; 4 stop(s) cut off the return",
+  "54: 13 stop(s) cut off the return; its directions do not match: runs back by its stops reversed",
+  "skipped 100: 2 stops left once cleaned",
+  "T31: 5 stop(s) cut off the outward; 4 stop(s) cut off the return",
+  "T53: 4 stop(s) cut off the outward; 3 stop(s) cut off the return; its directions do not match: runs back by its stops reversed",
+  "D200: 20 stop(s) cut off the return; its directions do not match: runs back by its stops reversed",
+  "T140: 11 stop(s) cut off the return; its directions do not match: runs back by its stops reversed",
+  "12 lines cleaned of OSM's slips (above)",
+  "29 lines from 58 OSM relations; 1052 stops, 869 named after their street",
+  "4 headways from OSM, 25 assumed",
+  "6 stop places more than 50 m from a street moved onto the nearest one (245 m, 235 m, 79 m, 70 m, 63 m, 53 m)",
+  "stations at terminals, two lines or more: ['EST_C_E_DR_PITICO', 'EST_ESTACAO_ESCOLA_LAURO_SANCHES_MARCOS_ROBERTO_BONINI', 'EST_ESTACAO_VILA_CAROL_ARANY_MARCHETTI', 'EST_JD_ATILIO_SILVANO', 'EST_JD_PARANA', 'EST_LOS_ANGELES', 'EST_SAO_CAMILO', 'EST_TERMINAL_RODOVIARIO_SOROCABA', 'EST_TERMINAL_SAO_PAULO', 'EST_TERMINAL_URBANO_SANTO_ANTONIO', 'EST_TERMINAL_VITORIA_REGIA']"
+ ]
+}

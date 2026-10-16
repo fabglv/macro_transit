@@ -1,0 +1,20 @@
+{
+  "label": "New metro line L2",
+  "description": "An east-west metro line from Chilibulo through the historic centre to Gonzalez Suarez, along the corridor where the demand has trips and no line runs. It meets the trunk network at La Marin, sharing that station with the Trolebus and the Ecovia. The notebook's second scenario.",
+  "changes": [
+    {"type": "add_line", "route": "L2", "name": "Metro Linea 2 (Chilibulo - Gonzalez Suarez)",
+     "mode": "metro", "headway_min": 5, "speed_kmh": 30, "dwell_s": 30, "color": "#9467bd",
+     "stops": [
+       ["Chilibulo",       -0.23600, -78.54200, ""],
+       ["La Libertad",     -0.23000, -78.53200, ""],
+       ["San Roque",       -0.22500, -78.52300, ""],
+       ["San Francisco",   -0.22065, -78.51530, ""],
+       ["La Marin",        -0.22015, -78.50790, "EST_MARIN"],
+       ["Itchimbia",       -0.21650, -78.50100, ""],
+       ["La Tola",         -0.21200, -78.49400, ""],
+       ["La Vicentina",    -0.20600, -78.48700, ""],
+       ["Guapulo",         -0.19800, -78.47800, ""],
+       ["Gonzalez Suarez", -0.18900, -78.46900, ""]
+     ]}
+  ]
+}
