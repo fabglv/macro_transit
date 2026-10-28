@@ -20,10 +20,10 @@ NOT_ROADS = setting("NOT_ROADS", [
     "pedestrian", "bridleway", "construction", "crossing", "ladder", "rest_area", "bus_stop",
     "steps", "footway", "path", "track", "corridor", "elevator", "proposed", "platform",
     "raceway", "escalator"], "OSM link types dropped from the network: not roads for cars")
-# Sorocaba repairs slip-road classes, one-way tags and roundabouts from OSM (E1b). Quito's model
-# was built without it; switching it on downloads the district's tags once (cached) and changes
-# the network the results stand on.
-REPAIR_OSM_TAGS = setting("REPAIR_OSM_TAGS", False,
+# Slip-road classes, one-way tags and roundabouts put back from OSM (E1b), as for Sorocaba: the
+# importer leaves 688 of Quito's 726 roundabout links two-way. On since October 2026; the
+# district's tags are downloaded once and cached.
+REPAIR_OSM_TAGS = setting("REPAIR_OSM_TAGS", True,
                           "put back slip-road classes, one-way tags and roundabouts from OSM (E1b)")
 
 CONNECTORS_PER_ZONE = assume(

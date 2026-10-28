@@ -24,7 +24,7 @@ import pandas as pd
 
 from core import report, zoning
 from core.gravity import Gravity, busiest_pairs, stayers
-from core.maps import MapKit
+from core.maps import MapKit, link_frame
 from core.pipeline import CityModel
 
 from . import maps as qmaps
@@ -37,13 +37,46 @@ USE_CLASS = {"RUM": "residential", "RUB": "residential", "RUA": "residential",
 CLASSES = ["residential", "mixed/commercial", "facilities", "heritage core", "industrial"]
 
 # The ten roads the Agencia Metropolitana de Transito names as the city's worst, reported in
-# Primicias on 8 January 2024. Occidental is the northern stretch of Mariscal Sucre, so it is
-# matched under that name. Kept as data so the comparison is redone every run.
-AMT_WORST = {"Simon Bolivar": "Sim", "General Ruminahui": "Rumi",
-             "Occidental (Mariscal Sucre)": "Mariscal Sucre", "Amazonas": "Amazonas",
-             "De los Shyris": "Shyris", "10 de Agosto": "10 de Agosto",
-             "Eloy Alfaro": "Eloy Alfaro", "6 de Diciembre": "6 de Diciembre",
-             "Gaspar de Villarroel": "Gaspar de Villarroel", "Velasco Ibarra": "Velasco Ibarra"}
+# Primicias on 8 January 2024, each with the OSM names it goes by - matched whole, as the
+# street tables match them: a part of a name catches other streets ("Rumi", Rumiurcu). The
+# Occidental is OSM's Avenida Mariscal Sucre. Kept as data so the comparison is redone every run.
+AMT_WORST = {"Simon Bolivar": ("Avenida Simón Bolívar",),
+             "General Ruminahui": ("Autopista General Rumiñahui", "Avenida General Rumiñahui"),
+             "Occidental (Mariscal Sucre)": ("Avenida Mariscal Sucre",),
+             "Amazonas": ("Avenida Río Amazonas",), "De los Shyris": ("Avenida de los Shyris",),
+             "10 de Agosto": ("Avenida 10 de Agosto",),
+             "Eloy Alfaro": ("Avenida General Eloy Alfaro", "Avenida Eloy Alfaro"),
+             "6 de Diciembre": ("Avenida 6 de Diciembre",),
+             "Gaspar de Villarroel": ("Avenida Gaspar de Villarroel", "Gaspar de Villarroel"),
+             "Velasco Ibarra": ("Avenida Velasco Ibarra",)}
+AMT_REACH_M = 300         # links of one road this close together are one stretch of it
+
+
+def amt_stretches(links, metre_crs):
+    """The link ids of each AMT road: its main stretch only, by label.
+
+    A name is not unique in the district - a second Avenida Río Amazonas runs through the Valle de
+    los Chillos - so of the links carrying a road's names, only the largest group lying within
+    AMT_REACH_M of one another is the road the AMT means. `links` has link_id, name, geometry."""
+    import networkx as nx
+    named = links[links["name"].isin({n for names in AMT_WORST.values() for n in names})]
+    named = named.to_crs(metre_crs)
+    out = {}
+    for label, names in AMT_WORST.items():
+        road = named[named["name"].isin(names)].reset_index(drop=True)
+        if road.empty:
+            continue
+        near = gpd.sjoin(gpd.GeoDataFrame(geometry=road.buffer(AMT_REACH_M)), road[["geometry"]],
+                         predicate="intersects")
+        graph = nx.Graph()
+        graph.add_nodes_from(road.index)
+        graph.add_edges_from(zip(near.index, near["index_right"]))
+        main = max(nx.connected_components(graph),
+                   key=lambda part: road.loc[list(part)].geometry.length.sum())
+        out[label] = set(road.loc[list(main), "link_id"])
+    return out
+
+
 ZONE_SIMPLIFY_M = 0.5     # exported zone outlines: below the accuracy of any census boundary
 
 
@@ -428,12 +461,12 @@ class Quito(CityModel):
     def after_assignment(self):
         """Against the ten worst roads the AMT names (Primicias, 8 January 2024)."""
         over = self.load["over"]
+        stretches = amt_stretches(link_frame(self.model, "link_id, name"), self.metre_crs)
         print(f"\nagainst the ten worst roads named by the AMT (Primicias, 8 January 2024):")
         print(f"  {'road':<30}{'over capacity':>14}{'typical V/C':>13}")
-        named_over = over[over["name"].notna()]
         found = 0
-        for label, pattern in AMT_WORST.items():
-            hit = named_over[named_over["name"].str.contains(pattern, case=False, regex=False)]
+        for label in AMT_WORST:
+            hit = over[over["link_id"].isin(stretches.get(label, ()))]
             if len(hit):
                 found += 1
                 print(f"  {label:<30}{hit['distance'].sum() / 1000:>11,.1f} km"

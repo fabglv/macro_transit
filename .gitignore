@@ -13,6 +13,8 @@ data/**
 
 # Not the program's
 other_stuff/
+# The paper's figures: tools/paper_figures.py draws them again
+images/
 .vscode/
 
 # What the tests leave: their reports, logs and screenshots, and the runs they make (zzi_, zzr_,

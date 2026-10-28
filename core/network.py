@@ -194,7 +194,7 @@ def describe_network(road, top=12):
             "FROM links WHERE junction = 'roundabout'", conn).iloc[0]
     print(f"{by_type['km'].sum():,.0f} km of road in total")
     print(f"roundabouts: {rb['links']:,.0f} links over {(rb['m'] or 0) / 1000:,.1f} km, "
-          f"{rb['two_way'] or 0:,.0f} of them tagged two-way\n")
+          f"{rb['two_way'] or 0:,.0f} of them two-way as imported\n")
     print(by_type.head(top).to_string(index=False))
 
 
@@ -265,11 +265,17 @@ def repair_from_osm_tags(project, folder):
                             "FROM links", conn)
         known = set(pd.read_sql("SELECT link_type FROM link_types", conn)["link_type"])
         used = set(pd.read_sql("SELECT link_type_id FROM link_types", conn)["link_type_id"])
-    found = links["osm_id"].isin(tags.index)
+    # A way's id is a number, or - in a network imported before September 2026 (Quito's) - text
+    # such as "24210661;nan": the way, then a second id the importer left empty.
+    way = pd.to_numeric(links["osm_id"].astype(str).str.split(";").str[0], errors="coerce")
+    found = way.isin(tags.index)
     print(f"OSM tags found for {found.mean():.1%} of the network's links")
-    highway = links["osm_id"].map(tags["highway"]).fillna("").str.lower()
-    oneway = links["osm_id"].map(tags["oneway"]).fillna("").str.lower()
-    junction = links["osm_id"].map(tags["junction"]).fillna("").str.lower()
+    if found.mean() < 0.9:
+        raise RuntimeError(f"OSM tags match only {found.mean():.1%} of the links: the cached "
+                           f"osm_tags.parquet in {folder} is incomplete, or the ids do not match")
+    highway = way.map(tags["highway"]).fillna("").str.lower()
+    oneway = way.map(tags["oneway"]).fillna("").str.lower()
+    junction = way.map(tags["junction"]).fillna("").str.lower()
 
     # Slip roads back into their own classes, registering any class the project lacks.
     ramp = highway.isin(LINK_CLASSES) & (links["link_type"] != highway)

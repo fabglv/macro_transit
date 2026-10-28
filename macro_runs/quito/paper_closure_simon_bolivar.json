@@ -1,0 +1,34 @@
+{
+ "label": "Closure of Avenida Simón Bolívar (paper example)",
+ "description": "The links of Avenida Simón Bolívar within 800 m of its busiest point, both directions: the worked example of the macrosimulation paper.",
+ "base": "baseline",
+ "type": "closure",
+ "edits": [
+  {
+   "kind": "close",
+   "links": [
+    53441,
+    53442,
+    53443,
+    53444,
+    53445,
+    53446,
+    60562,
+    60563,
+    62211,
+    62212,
+    62213,
+    62214,
+    62216,
+    68745,
+    68746,
+    68747,
+    68748,
+    68749,
+    68750,
+    68751
+   ],
+   "label": "Avenida Simón Bolívar"
+  }
+ ]
+}

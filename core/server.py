@@ -62,6 +62,7 @@ SIM_NAME = re.compile(r"^[a-z0-9][a-z0-9_.-]{0,119}$")  # a simulation's: a desi
 MODES = {0: "tram", 1: "metro", 2: "rail", 3: "bus"}
 LOG_TAIL = 40
 BASELINE = "baseline"
+STUDY_HOLE_M2 = 10_000     # a hole in the editor's study area under this is a gap between zones
 
 
 class Jobs:
@@ -291,6 +292,8 @@ def _study_area(city, bbox):
     """The outline of the zones a simulation takes - the city's, those whose middle is in the
     study box (transit/project.road_zones) - as GeoJSON, for the editor to draw: the area the
     simulation covers, along zone borders. None while the city's zones are not built yet."""
+    import math
+
     import shapely
     import shapely.geometry
     from shapely.ops import unary_union
@@ -308,6 +311,14 @@ def _study_area(city, bbox):
     # About 50 m of detail, coordinates to about a metre: an outline, not a map of the zones.
     area = shapely.set_precision(unary_union([g.buffer(0) for g in inside.geometry])
                                  .simplify(0.0005), 1e-5)
+    # The zones' outlines are simplified one by one, which leaves gaps of a few square metres
+    # between neighbours; merged, they become holes, each drawn as a dashed ring inside the area.
+    # A zone left out of the area is far bigger than STUDY_HOLE_M2: smaller holes go.
+    deg2 = (111_320 ** 2) * math.cos(math.radians((min_lat + max_lat) / 2))  # m² in a square degree
+    area = shapely.MultiPolygon([
+        shapely.Polygon(p.exterior, [r for r in p.interiors
+                                     if shapely.Polygon(r).area * deg2 >= STUDY_HOLE_M2])
+        for p in getattr(area, "geoms", [area])])
     return shapely.geometry.mapping(area)
 
 
